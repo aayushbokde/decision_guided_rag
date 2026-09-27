@@ -1,0 +1,25 @@
+[project]
+name = "jev-rag-research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Aayush Bokde", email = "aayushbokde31@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.4.2",
+    "langchain-community>=0.4.2",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "ollama>=0.6.2",
+    "pandas>=3.0.6",
+    "streamlit>=1.40.0",
+]
+
+[project.scripts]
+jev-rag-research = "jev_rag_research:main"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"

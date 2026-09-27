@@ -1,0 +1,1810 @@
+{
+  "questions": 200,
+  "exact_match": 0.34,
+  "token_f1": 0.5952389975435338,
+  "average_retrieval_depth": 1.055,
+  "early_exit_rate": 0.995,
+  "gold_chunk_survival": 0.875,
+  "evaluations": [
+    {
+      "question_id": "5726c3b3708984140094d0cf",
+      "reference": "fragmentation",
+      "prediction": "The Shah's army was split by diverse internecine feuds and by the Shah's decision to divide his army into small groups concentrated in various cities.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726c3b3708984140094d0d0",
+      "reference": "Otrar",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5726c3b3708984140094d0d1",
+      "reference": "silver",
+      "prediction": "Molten silver.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 2,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726c3b3708984140094d0d2",
+      "reference": "fled",
+      "prediction": "The Shah fled rather than surrender.",
+      "exact_match": 0,
+      "token_f1": 0.33333333333333337,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726c3b3708984140094d0d3",
+      "reference": "Subutai and Jebe",
+      "prediction": "Subutai and Jebe",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57269cc3dd62a815002e8b12",
+      "reference": "Directives",
+      "prediction": "Directives do not generally give citizens standing to sue other citizens.",
+      "exact_match": 0,
+      "token_f1": 0.16666666666666669,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57269cc3dd62a815002e8b13",
+      "reference": "4 weeks",
+      "prediction": "Every worker has at least 4 weeks paid holidays each year.",
+      "exact_match": 0,
+      "token_f1": 0.3076923076923077,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57269cc3dd62a815002e8b14",
+      "reference": "28 days",
+      "prediction": "More than 28 days.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57269cc3dd62a815002e8b15",
+      "reference": "early 1990s",
+      "prediction": "In the early 1990s.",
+      "exact_match": 0,
+      "token_f1": 0.8,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57265ceddd62a815002e82b8",
+      "reference": "1979",
+      "prediction": "By 1979.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57265ceddd62a815002e82b9",
+      "reference": "1981",
+      "prediction": "1981",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57265ceddd62a815002e82ba",
+      "reference": "Mustang I",
+      "prediction": "The 1974 Mustang I and GM's full-sized cars reflected the DOT \"downsize\" revision of vehicle categories.",
+      "exact_match": 0,
+      "token_f1": 0.25,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727515af1498d1400e8f63a",
+      "reference": "Ikh Zasag",
+      "prediction": "Ikh Zasag (Great Administration)",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5727515af1498d1400e8f63b",
+      "reference": "corruption and bribery",
+      "prediction": "Illegal matters related to corruption and bribery were significantly punished by Genghis Khan\u2019s laws.",
+      "exact_match": 0,
+      "token_f1": 0.35294117647058826,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727515af1498d1400e8f63c",
+      "reference": "Tsakhiagiin Elbegdorj",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5727515af1498d1400e8f63d",
+      "reference": "traditional Mongolian script",
+      "prediction": "The traditional Mongolian script.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572961f61d04691400779359",
+      "reference": "double",
+      "prediction": "A double membrane.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572961f61d0469140077935a",
+      "reference": "additional membranes outside of the original two",
+      "prediction": "Secondary chloroplasts have additional membranes outside of the original two, as a result of the secondary endosymbiotic event.",
+      "exact_match": 0,
+      "token_f1": 0.5714285714285715,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572961f61d0469140077935b",
+      "reference": "a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga but failed to digest it",
+      "prediction": "When a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga but failed to digest it\u2014much like the cyanobacterium at the beginning of this story.",
+      "exact_match": 0,
+      "token_f1": 0.6428571428571429,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572961f61d0469140077935c",
+      "reference": "sometimes the eaten alga's cell membrane, and the phagosomal vacuole from the host's cell membrane",
+      "prediction": "Secondary chloroplasts have additional membranes outside of the original two, as a result of the secondary endosymbiotic event.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "572961f61d0469140077935d",
+      "reference": "its chloroplast, and sometimes its cell membrane and nucleus",
+      "prediction": "Sometimes its cell membrane and nucleus.",
+      "exact_match": 0,
+      "token_f1": 0.8,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e4",
+      "reference": "Han Chinese, Khitans, Jurchens, Mongols, and Tibetan Buddhists",
+      "prediction": "The Han Chinese, Khitans, Jurchens, Mongols, and Tibetan Buddhists.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e5",
+      "reference": "Tang, Song, as well as Khitan Liao and Jurchen Jin dynasties",
+      "prediction": "The native Tang, Song, Khitan Liao and Jurchen Jin dynasties.",
+      "exact_match": 0,
+      "token_f1": 0.7999999999999999,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e6",
+      "reference": "Liu Bingzhong and Yao Shu",
+      "prediction": "Liu Bingzhong and Yao Shu.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e7",
+      "reference": "tripartite",
+      "prediction": "The government adopted the traditional Chinese tripartite division of authority among civil, military, and censorial offices.",
+      "exact_match": 0,
+      "token_f1": 0.13333333333333333,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e8",
+      "reference": "civil, military, and censorial offices",
+      "prediction": "The three parts of Kublai\u2019s government were civil, military, and censorial offices.",
+      "exact_match": 0,
+      "token_f1": 0.625,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5729ffda1d046914007796af",
+      "reference": "vaccination",
+      "prediction": "Through vaccination.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5729ffda1d046914007796b0",
+      "reference": "immunization",
+      "prediction": "immunization",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5729ffda1d046914007796b1",
+      "reference": "an antigen from a pathogen",
+      "prediction": "An antigen from a pathogen.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5729ffda1d046914007796b2",
+      "reference": "natural specificity of the immune system",
+      "prediction": "the natural specificity of the immune system, as well as its inducibility.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "570d44abb3d812140066d5fd",
+      "reference": "1,548",
+      "prediction": "1,548",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "570d44abb3d812140066d5fe",
+      "reference": "489",
+      "prediction": "489",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "570d44abb3d812140066d5ff",
+      "reference": "540,800",
+      "prediction": "Just under 540,800 students were enrolled in public schools.",
+      "exact_match": 0,
+      "token_f1": 0.19999999999999998,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "570d44abb3d812140066d600",
+      "reference": "63,519",
+      "prediction": "Victoria has about 63,519 full-time teachers.",
+      "exact_match": 0,
+      "token_f1": 0.2857142857142857,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "570d44abb3d812140066d601",
+      "reference": "61",
+      "prediction": "Over 61 per cent of private students attend Catholic schools.",
+      "exact_match": 0,
+      "token_f1": 0.18181818181818182,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56de49564396321400ee277a",
+      "reference": "Africa",
+      "prediction": "Africa.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "573755afc3c5551400e51eb3",
+      "reference": "center of mass",
+      "prediction": "An acceleration proportional to the magnitude of the external force divided by the mass of the system.",
+      "exact_match": 0,
+      "token_f1": 0.26666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "573755afc3c5551400e51eb4",
+      "reference": "closed",
+      "prediction": "In a closed system of particles.",
+      "exact_match": 0,
+      "token_f1": 0.33333333333333337,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "573755afc3c5551400e51eb5",
+      "reference": "mass of the system",
+      "prediction": "Acceleration is proportional to the magnitude of the external force divided by the mass of the system.",
+      "exact_match": 0,
+      "token_f1": 0.375,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e29e",
+      "reference": "Life Savers candy",
+      "prediction": "Life Savers candy",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e29f",
+      "reference": "October 12, 1943",
+      "prediction": "October 12, 1943.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e2a0",
+      "reference": "George B. Storer",
+      "prediction": "George B. Storer",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e2a1",
+      "reference": "president and CEO",
+      "prediction": "president and CEO of ABC until December 1949, and was subsequently promoted to vice-chairman of the board.",
+      "exact_match": 0,
+      "token_f1": 0.3157894736842105,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e2a2",
+      "reference": "June 30, 1951",
+      "prediction": "June 30, 1951.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb3",
+      "reference": "one of the most common",
+      "prediction": "One of the most common forms of school discipline throughout much of the world.",
+      "exact_match": 0,
+      "token_f1": 0.5,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb4",
+      "reference": "Most Western countries",
+      "prediction": "Most Western countries, and some others.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb5",
+      "reference": "United States",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb6",
+      "reference": "Supreme Court",
+      "prediction": "US Supreme Court",
+      "exact_match": 0,
+      "token_f1": 0.8,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb7",
+      "reference": "physical pain",
+      "prediction": "Physical pain.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683075951b619008f7513",
+      "reference": "via pores in the epidermis",
+      "prediction": "Eggs and sperm are released via pores in the epidermis.",
+      "exact_match": 0,
+      "token_f1": 0.6153846153846153,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683075951b619008f7514",
+      "reference": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+      "prediction": "Platyctenids use internal fertilization and keep the eggs in brood chambers until th.",
+      "exact_match": 0,
+      "token_f1": 0.7826086956521738,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683075951b619008f7515",
+      "reference": "Mnemiopsis",
+      "prediction": "Mnemiopsis",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683075951b619008f7516",
+      "reference": "in the parts of the internal canal network under the comb rows",
+      "prediction": "The gonads are located in the parts of the internal canal network under the comb rows.",
+      "exact_match": 0,
+      "token_f1": 0.8571428571428571,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683075951b619008f7517",
+      "reference": "external",
+      "prediction": "internal",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e1e",
+      "reference": "Six",
+      "prediction": "Six",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e1f",
+      "reference": "the first two series",
+      "prediction": "The first and second series were featured on the first Doctor Who soundtrack.",
+      "exact_match": 0,
+      "token_f1": 0.28571428571428575,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e20",
+      "reference": "music from the 2008\u20132010 specials",
+      "prediction": "music from the 2008\u20132010 specials (The Next Doctor to End of Time Part 2)",
+      "exact_match": 0,
+      "token_f1": 0.5,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e21",
+      "reference": "A Christmas Carol",
+      "prediction": "\u201cA Christmas Carol\u201d",
+      "exact_match": 0,
+      "token_f1": 0.4,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e22",
+      "reference": "8 November 2010",
+      "prediction": "8 November 2010.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc80",
+      "reference": "The Presiding Officer",
+      "prediction": "The Presiding Officer (or Deputy Presiding Officer) decides who speaks in chamber debates.",
+      "exact_match": 0,
+      "token_f1": 0.2857142857142857,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc81",
+      "reference": "amount of time for which they are allowed to speak",
+      "prediction": "The amount of time for which they are allowed to speak.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc82",
+      "reference": "different viewpoints",
+      "prediction": "The Presiding Officer tries to achieve a balance between different viewpoints and political parties when selecting members to speak.",
+      "exact_match": 0,
+      "token_f1": 0.21052631578947367,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc83",
+      "reference": "ministers or party leaders",
+      "prediction": "ministers or party leaders",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc84",
+      "reference": "Gaelic",
+      "prediction": "Gaelic",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57273d06f1498d1400e8f4f6",
+      "reference": "rivers",
+      "prediction": "certain rivers",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57273d06f1498d1400e8f4f7",
+      "reference": "Muslim and Chinese",
+      "prediction": "Muslim and Chinese siege engines and engineers.",
+      "exact_match": 0,
+      "token_f1": 0.6,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57273d06f1498d1400e8f4f8",
+      "reference": "feigned retreat",
+      "prediction": "Adopting new ideas, techniques and tools from the people they conquered, particularly in employing Muslim and Chinese siege engines and engineers to aid the Mongol cavalry in capturing cities. Another standard tactic of the Mongol military was the commonly practiced feigned retreat to break enemy format.",
+      "exact_match": 0,
+      "token_f1": 0.0909090909090909,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57273d06f1498d1400e8f4f9",
+      "reference": "driving them in front of the army",
+      "prediction": "They were driven in front of the army.",
+      "exact_match": 0,
+      "token_f1": 0.6153846153846153,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e671dd62a815002e9464",
+      "reference": "General Hospital",
+      "prediction": "General Hospital",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e671dd62a815002e9465",
+      "reference": "1975",
+      "prediction": "1975",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e671dd62a815002e9466",
+      "reference": "The Edge of Night",
+      "prediction": "The Edge of Night.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e671dd62a815002e9467",
+      "reference": "The View and The Chew",
+      "prediction": "The View and The Chew.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e671dd62a815002e9468",
+      "reference": "1963",
+      "prediction": "1963",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69a",
+      "reference": "tenggis",
+      "prediction": "tenggis",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69b",
+      "reference": "Lake Baikal",
+      "prediction": "Lake Baikal and ocean",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69c",
+      "reference": "\"right\", \"just\", or \"true\"",
+      "prediction": "Zh\u00e8ng (Chinese: \u6b63) meaning \"right\", \"just\", or \"true\".",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69d",
+      "reference": "Zh\u00e8ng",
+      "prediction": "Zh\u00e8ng",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69e",
+      "reference": "Chinggis",
+      "prediction": "Chinggis",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b60",
+      "reference": "Foreign Protestants Naturalization Act",
+      "prediction": "The 1708 passage of the Foreign Protestants Naturalization Act made England more welcoming to Huguenots.",
+      "exact_match": 0,
+      "token_f1": 0.47058823529411764,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b61",
+      "reference": "1708",
+      "prediction": "19 December",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b62",
+      "reference": "50,000",
+      "prediction": "An estimated 50,000 Protestant Walloons and Huguenots emigrated to England and Ireland.",
+      "exact_match": 0,
+      "token_f1": 0.16666666666666669,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b63",
+      "reference": "Andrew Lortie",
+      "prediction": "Andrew Lortie (born Andr\u00e9 Lortie)",
+      "exact_match": 0,
+      "token_f1": 0.5714285714285715,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b64",
+      "reference": "the doctrine of transubstantiation",
+      "prediction": "The Pope and the doctrine of transubstantiation.",
+      "exact_match": 0,
+      "token_f1": 0.7499999999999999,
+      "retrieval_depth": 5,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e24c",
+      "reference": "Newcastle Mela",
+      "prediction": "Newcastle Mela, held on the late August bank holiday weekend, is an annual two-day multicultural event, blending drama, music and food from Punjabi, Pakistani, Bengali and Hindu cultures.",
+      "exact_match": 0,
+      "token_f1": 0.14285714285714288,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e24e",
+      "reference": "Sage Gateshead Music and Arts Centre",
+      "prediction": "Sage Gateshead Music and Arts Centre.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e24f",
+      "reference": "Design Event festival",
+      "prediction": "Design Event festival\u2014an annual festival providing the public with an opportunity to see work by regional, national an",
+      "exact_match": 0,
+      "token_f1": 0.33333333333333337,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e250",
+      "reference": "East Asian",
+      "prediction": "An East Asian cultural festival.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e24d",
+      "reference": "NewcastleGateshead",
+      "prediction": "NewcastleGateshead holds an annual International Arts Fair.",
+      "exact_match": 0,
+      "token_f1": 0.2857142857142857,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e2",
+      "reference": "On the Night of the Fire",
+      "prediction": "On the Night of the Fire (1939)",
+      "exact_match": 0,
+      "token_f1": 0.888888888888889,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e3",
+      "reference": "Get Carter",
+      "prediction": "Get Carter was shot on location in and around Newcastle.",
+      "exact_match": 0,
+      "token_f1": 0.33333333333333337,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e4",
+      "reference": "gangster",
+      "prediction": "Film noir thriller.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e5",
+      "reference": "Mike Figgis",
+      "prediction": "Mike Figgis",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e6",
+      "reference": "Sting",
+      "prediction": "Sting",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e4eedd62a815002e9438",
+      "reference": "2002",
+      "prediction": "In 2002.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e4eedd62a815002e9439",
+      "reference": "Vivienne Westwood",
+      "prediction": "Vivienne Westwood",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e4eedd62a815002e943a",
+      "reference": "178",
+      "prediction": "178",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e4eedd62a815002e943b",
+      "reference": "Costiff",
+      "prediction": "The Costiff collection of 178 Vivienne Westwood costumes.",
+      "exact_match": 0,
+      "token_f1": 0.25,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726e4eedd62a815002e943c",
+      "reference": "modern",
+      "prediction": "Modern fashion",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "56e12005cd28a01900c67617",
+      "reference": "overweight people",
+      "prediction": "Overweight people.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e12005cd28a01900c67618",
+      "reference": "secretary",
+      "prediction": "A secretary because of her weight.",
+      "exact_match": 0,
+      "token_f1": 0.33333333333333337,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e12005cd28a01900c67619",
+      "reference": "her weight",
+      "prediction": "Because of her weight.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e12005cd28a01900c6761a",
+      "reference": "go home and change",
+      "prediction": "He directed a subordinate to go home and change her dress.",
+      "exact_match": 0,
+      "token_f1": 0.5714285714285715,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57297991af94a219006aa4b7",
+      "reference": "transgenes in these plastids cannot be disseminated by pollen",
+      "prediction": "Since, in most flowering plants, chloroplasts are not inherited from the male parent, transgenes in these plastids cannot be disseminated by pollen. This makes plastid transformation a valuable tool for the creation and cultivation of genetically modified plants that are biologically contained, thus posing significantly lower environmental risks.",
+      "exact_match": 0,
+      "token_f1": 0.33333333333333337,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57297991af94a219006aa4b8",
+      "reference": "environmental risks",
+      "prediction": "Environmental risks.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57297991af94a219006aa4b9",
+      "reference": "3 in 1,000,000",
+      "prediction": "3 in 1,000,000.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57297991af94a219006aa4ba",
+      "reference": "transplastomic",
+      "prediction": "Biologically contained plants",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e0",
+      "reference": "Philip Glass",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e1",
+      "reference": "Alex Seropian",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e2",
+      "reference": "Halo",
+      "prediction": "Halo",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e3",
+      "reference": "Ed Asner",
+      "prediction": "Ed Asner is a university graduate.",
+      "exact_match": 0,
+      "token_f1": 0.5714285714285715,
+      "retrieval_depth": 4,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e4",
+      "reference": "Mike Nichols",
+      "prediction": "Mike Nichols is a director, writer, and comedian who is also a university graduate.",
+      "exact_match": 0,
+      "token_f1": 0.2857142857142857,
+      "retrieval_depth": 4,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572975073f37b31900478415",
+      "reference": "generate ATP energy",
+      "prediction": "Like mitochondria, chloroplasts use the potential energy stored in an H+, or hydrogen ion gradient to generate ATP energy.",
+      "exact_match": 0,
+      "token_f1": 0.3,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572975073f37b31900478416",
+      "reference": "into the thylakoid space",
+      "prediction": "into the thylakoid space",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572975073f37b31900478417",
+      "reference": "up to a thousand times",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "572975073f37b31900478418",
+      "reference": "phosphorylate adenosine diphosphate",
+      "prediction": "ATP synthase uses the energy from the flowing hydrogen ions to phosphorylate adenosine diphosphate into adenosine triphosphate, or ATP.",
+      "exact_match": 0,
+      "token_f1": 0.3,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572975073f37b31900478419",
+      "reference": "adenosine triphosphate",
+      "prediction": "adenosine triphosphate",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5705fd8475f01819005e7841",
+      "reference": "Pacific Ocean",
+      "prediction": "Pacific Ocean",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5705fd8475f01819005e7840",
+      "reference": "varied",
+      "prediction": "varied collection of geologic, topographic, and natural ecosystem landscapes",
+      "exact_match": 0,
+      "token_f1": 0.19999999999999998,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5705fd8475f01819005e7842",
+      "reference": "topographic",
+      "prediction": "topographic landscapes",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5705fd8475f01819005e7843",
+      "reference": "Peninsular",
+      "prediction": "Peninsular Ranges",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5705fd8475f01819005e7844",
+      "reference": "valleys",
+      "prediction": "The Transverse and Peninsular Ranges with their peaks.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57309bfb8ab72b1400f9c5e6",
+      "reference": "British",
+      "prediction": "The British experience.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57309bfb8ab72b1400f9c5e7",
+      "reference": "in the late 1870s",
+      "prediction": "In the late 1870s.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57309bfb8ab72b1400f9c5e8",
+      "reference": "philanthropy",
+      "prediction": "For some, imperialism designated a policy of idealism and philanthropy.",
+      "exact_match": 0,
+      "token_f1": 0.19999999999999998,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57309bfb8ab72b1400f9c5e9",
+      "reference": "to constantly expand investment",
+      "prediction": "According to Lenin, Imperialism was a natural extension of capitalism.",
+      "exact_match": 0,
+      "token_f1": 0.15384615384615383,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "57106185b654c5140001f8db",
+      "reference": "derision",
+      "prediction": "A clever derogatory pun on the name Hugues by way of the Dutch word Huisgenoten (literally housemates), referring to the connotations of a somewhat related word in German Eidgenosse (Confederates as in \"a citizen of).",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57106185b654c5140001f8dd",
+      "reference": "Geneva",
+      "prediction": "Geneva",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57106185b654c5140001f8dc",
+      "reference": "Besan\u00e7on Hugues",
+      "prediction": "Besan\u00e7on Hugues (died 1532)",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57106185b654c5140001f8de",
+      "reference": "Amboise plot",
+      "prediction": "The Amboise plot",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57106185b654c5140001f8df",
+      "reference": "1560",
+      "prediction": "1560",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689db",
+      "reference": "Wahhabi/Salafi jihadist extremist militant",
+      "prediction": "Wahhabi/Salafi jihadist extremist militant group",
+      "exact_match": 0,
+      "token_f1": 0.888888888888889,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689dc",
+      "reference": "Sunni Arabs",
+      "prediction": "It is led by and mainly composed of Sunni Arabs from Iraq and Syria.",
+      "exact_match": 0,
+      "token_f1": 0.25,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689de",
+      "reference": "ten million",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689df",
+      "reference": "recognition",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689dd",
+      "reference": "a caliphate",
+      "prediction": "A caliphate, with religious, political and military authority over all Muslims worldwide.",
+      "exact_match": 0,
+      "token_f1": 0.16666666666666669,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e1c4fce3433e140042314e",
+      "reference": "BPP, ZPP and RP",
+      "prediction": "BPP, ZPP and RP",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e1c4fce3433e140042314f",
+      "reference": "Boolean",
+      "prediction": "Boolean circuits.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e1c4fce3433e1400423150",
+      "reference": "quantum",
+      "prediction": "quantum Turing machines",
+      "exact_match": 0,
+      "token_f1": 0.5,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e1c4fce3433e1400423151",
+      "reference": "#P",
+      "prediction": "#P is an important complexity class of counting problems.",
+      "exact_match": 0,
+      "token_f1": 0.2222222222222222,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e1c4fce3433e1400423152",
+      "reference": "Interactive",
+      "prediction": "Interactive proof systems.",
+      "exact_match": 0,
+      "token_f1": 0.5,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572914441d04691400779025",
+      "reference": "December 2014",
+      "prediction": "In December 2014.",
+      "exact_match": 0,
+      "token_f1": 0.8,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572914441d04691400779026",
+      "reference": "to guard against armed groups",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "572914441d04691400779027",
+      "reference": "Opposition politicians, human rights groups, and nine Western countries",
+      "prediction": "Opposition politicians, human rights groups, and nine Western countries, along with the governments of the United States, Britain, Germany and France.",
+      "exact_match": 0,
+      "token_f1": 0.6428571428571429,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572914441d04691400779028",
+      "reference": "it infringed on democratic freedoms",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "572914441d04691400779029",
+      "reference": "of the United States, Britain, Germany and France",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f5",
+      "reference": "1522",
+      "prediction": "1522",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f6",
+      "reference": "1534",
+      "prediction": "1534",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f7",
+      "reference": "the translation",
+      "prediction": "His translation of the Bible.",
+      "exact_match": 0,
+      "token_f1": 0.4,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f8",
+      "reference": "alone",
+      "prediction": "\u201calone\u201d",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f9",
+      "reference": "Faith alone",
+      "prediction": "According to Luther, faith alone justifies us.",
+      "exact_match": 0,
+      "token_f1": 0.4444444444444445,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57297547af94a219006aa45b",
+      "reference": "1",
+      "prediction": "1",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57297547af94a219006aa45c",
+      "reference": "Christian Goldbach",
+      "prediction": "Christian Goldbach",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57297547af94a219006aa45d",
+      "reference": "Leonhard Euler",
+      "prediction": "Leonhard Euler",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57297547af94a219006aa45e",
+      "reference": "10,006,721",
+      "prediction": "10,006,721",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "57297547af94a219006aa45f",
+      "reference": "its own special category as a \"unit\"",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c4",
+      "reference": "monatomic",
+      "prediction": "monatomic",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c5",
+      "reference": "simplest",
+      "prediction": "Dalton assumed that the atoms in compounds would normally have the simplest atomic ratios with respect to one another.",
+      "exact_match": 0,
+      "token_f1": 0.1111111111111111,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c6",
+      "reference": "HO",
+      "prediction": "HO",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c7",
+      "reference": "hydrogen",
+      "prediction": "Hydrogen",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c8",
+      "reference": "Avogadro's law",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5733ea04d058e614000b6594",
+      "reference": "Paul Marin de la Malgue",
+      "prediction": "Paul Marin de la Malgue",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5733ea04d058e614000b6595",
+      "reference": "Fort Presque Isle (near present-day Erie, Pennsylvania",
+      "prediction": "Marin first constructed Fort Presque Isle (near present-day Erie, Pennsylvania) on Lake Erie\u2019s sout",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5733ea04d058e614000b6596",
+      "reference": "Fort Le Boeuf (present-day Waterford, Pennsylvania",
+      "prediction": "Fort Presque Isle (near present-day Erie, Pennsylvania) on Lake Erie's south.",
+      "exact_match": 0,
+      "token_f1": 0.3529411764705882,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5733ea04d058e614000b6597",
+      "reference": "protect the King's land in the Ohio Valley from the British",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5733ea04d058e614000b6598",
+      "reference": "Tanaghrisson",
+      "prediction": "He travelled to Fort Le Boeuf and threatened Marin.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b42",
+      "reference": "regeneration",
+      "prediction": "\u201cchange of appearance\u201d",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b43",
+      "reference": "the Doctor's third on-screen regeneration",
+      "prediction": "The actual term \"regeneration\" was not initially conceived of until the Doctor's third on-screen regeneration.",
+      "exact_match": 0,
+      "token_f1": 0.47058823529411764,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b44",
+      "reference": "William Hartnell's poor health",
+      "prediction": "William Hartnell's poor health.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b45",
+      "reference": "renewal",
+      "prediction": "\u201crenewal\u201d",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b46",
+      "reference": "change of appearance",
+      "prediction": "\u201cchange of appearance\u201d",
+      "exact_match": 0,
+      "token_f1": 0.3333333333333333,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726ea985951b619008f8261",
+      "reference": "medication regimen review",
+      "prediction": "Consultant pharmacy practice focuses more on medication regimen review (i.e. \"cognitive services\") than on actual dispensing of drugs.",
+      "exact_match": 0,
+      "token_f1": 0.2857142857142857,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726ea985951b619008f8262",
+      "reference": "nursing homes",
+      "prediction": "Consultant pharmacists most typically work in nursing homes, but are increasingly branching into other institutions and non-institutional settings.",
+      "exact_match": 0,
+      "token_f1": 0.19999999999999998,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726ea985951b619008f8263",
+      "reference": "Omnicare, Kindred Healthcare and PharMerica",
+      "prediction": "Omnicare, Kindred Healthcare and Phar",
+      "exact_match": 0,
+      "token_f1": 0.8000000000000002,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5726ea985951b619008f8264",
+      "reference": "because many elderly people are now taking numerous medications but continue to live outside of institutional settings",
+      "prediction": "Many elderly people are now taking numerous medications but continue to live outside of institutional settings.",
+      "exact_match": 0,
+      "token_f1": 0.9696969696969697,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726ea985951b619008f8265",
+      "reference": "employ consultant pharmacists and/or provide consulting services",
+      "prediction": "Some community pharmacies employ consultant pharmacists and/or provide consulting services.",
+      "exact_match": 0,
+      "token_f1": 0.8235294117647058,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726f90b708984140094d75d",
+      "reference": "Eadweard Muybridge",
+      "prediction": "Eadweard Muybridge",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726f90b708984140094d75e",
+      "reference": "1887",
+      "prediction": "1887",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726f90b708984140094d75f",
+      "reference": "781",
+      "prediction": "781 plates.",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726f90b708984140094d760",
+      "reference": "animals and humans performimg various actions",
+      "prediction": "These sequences of photographs taken a fraction of a second apart capture images of different animals and humans performimg various actions.",
+      "exact_match": 0,
+      "token_f1": 0.4799999999999999,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726f90b708984140094d761",
+      "reference": "James Lafayette",
+      "prediction": "bishops, generals, society ladies, Indian maharajas, Ethiopian rulers and other foreign leaders, actresses",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2d7",
+      "reference": "late 1970s",
+      "prediction": "In the late 1970s.",
+      "exact_match": 0,
+      "token_f1": 0.8,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2d8",
+      "reference": "second and third run movies, along with classic films",
+      "prediction": "second and third run movies, along with classic films.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2d9",
+      "reference": "1978",
+      "prediction": "1978",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2da",
+      "reference": "Fresno",
+      "prediction": "Fresno native",
+      "exact_match": 0,
+      "token_f1": 0.6666666666666666,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2db",
+      "reference": "Evita and The Wiz",
+      "prediction": "Evita and The Wiz.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726710b708984140094c61d",
+      "reference": "The V&A is located in the Brompton district of the Royal Borough of Kensington and Chelsea",
+      "prediction": "The Victoria and Albert Museum is located in the Brompton district of the Royal Borough of Kensington and Chelsea, in an area that has become known as \"Albertopolis\".",
+      "exact_match": 0,
+      "token_f1": 0.6486486486486487,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726710b708984140094c61e",
+      "reference": "a permanent collection of over 4.5 million objects.",
+      "prediction": "over 4.5 million",
+      "exact_match": 0,
+      "token_f1": 0.6,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726710b708984140094c61f",
+      "reference": "It was founded in 1852",
+      "prediction": "1852",
+      "exact_match": 0,
+      "token_f1": 0.33333333333333337,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5726710b708984140094c620",
+      "reference": "named after Queen Victoria and Prince Albert",
+      "prediction": "Queen Victoria and Prince Albert.",
+      "exact_match": 0,
+      "token_f1": 0.8333333333333333,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572680ac708984140094c83d",
+      "reference": "Royal Borough of Kensington and Chelsea",
+      "prediction": "Royal Borough of Kensington and Chelsea",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572680ac708984140094c83e",
+      "reference": "1852",
+      "prediction": "1852",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572680ac708984140094c83f",
+      "reference": "Queen Victoria and Prince Albert",
+      "prediction": "Queen Victoria and Prince Albert.",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "572680ac708984140094c840",
+      "reference": "Department for Culture, Media and Sport",
+      "prediction": "Insufficient information.",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": false
+    },
+    {
+      "question_id": "572680ac708984140094c841",
+      "reference": "2001",
+      "prediction": "2001",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727515f708984140094dc11",
+      "reference": "South African Schools Act",
+      "prediction": "The South African Schools Act of 1996 recognized two types of schools: \"public\" (state-controlled) and \"independent\" (which includes traditional private schools and schools which are privately governed).",
+      "exact_match": 0,
+      "token_f1": 0.2666666666666667,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727515f708984140094dc12",
+      "reference": "1996",
+      "prediction": "1996",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727515f708984140094dc13",
+      "reference": "independent",
+      "prediction": "\u201cindependent\u201d (which includes traditional private schools and schools which are privately governed",
+      "exact_match": 0,
+      "token_f1": 0.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727515f708984140094dc14",
+      "reference": "traditional private",
+      "prediction": "traditional private schools and schools which are privately governed",
+      "exact_match": 0,
+      "token_f1": 0.3636363636363636,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "5727515f708984140094dc15",
+      "reference": "nineteenth",
+      "prediction": "The early nineteenth century.",
+      "exact_match": 0,
+      "token_f1": 0.5,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    },
+    {
+      "question_id": "56e1c2eee3433e1400423134",
+      "reference": "chosen machine model",
+      "prediction": "the chosen machine model",
+      "exact_match": 1,
+      "token_f1": 1.0,
+      "retrieval_depth": 1,
+      "gold_chunk_survived": true
+    }
+  ]
+}

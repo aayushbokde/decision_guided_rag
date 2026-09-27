@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "5726c3b3708984140094d0cf",
+    "question": "What feature of the Shah's army enable the weary Mongol forces easy early victories?",
+    "answer": "fragmentation",
+    "document_id": "doc_0000",
+    "relevant_chunk_id": "doc_0000_chunk_000"
+  },
+  {
+    "id": "5726c3b3708984140094d0d0",
+    "question": "Which town's massacre did Genghis Khan order in retribution for the treatment of his envoys?",
+    "answer": "Otrar",
+    "document_id": "doc_0000",
+    "relevant_chunk_id": "doc_0000_chunk_000"
+  },
+  {
+    "id": "5726c3b3708984140094d0d1",
+    "question": "What metal was used in Inalchuq's execution?",
+    "answer": "silver",
+    "document_id": "doc_0000",
+    "relevant_chunk_id": "doc_0000_chunk_001"
+  },
+  {
+    "id": "5726c3b3708984140094d0d2",
+    "question": "What did the Shah do when faced with defeat by Genghis Khan's forces?",
+    "answer": "fled",
+    "document_id": "doc_0000",
+    "relevant_chunk_id": "doc_0000_chunk_001"
+  },
+  {
+    "id": "5726c3b3708984140094d0d3",
+    "question": "Who did Genghis Khan charge with finding and punishing the Shah?",
+    "answer": "Subutai and Jebe",
+    "document_id": "doc_0000",
+    "relevant_chunk_id": "doc_0000_chunk_001"
+  },
+  {
+    "id": "57269cc3dd62a815002e8b12",
+    "question": "What generally does not allow citizens to sue other citizens?",
+    "answer": "Directives",
+    "document_id": "doc_0001",
+    "relevant_chunk_id": "doc_0001_chunk_000"
+  },
+  {
+    "id": "57269cc3dd62a815002e8b13",
+    "question": "How many paid holiday days does the Working Time directive require workers to have each year?",
+    "answer": "4 weeks",
+    "document_id": "doc_0001",
+    "relevant_chunk_id": "doc_0001_chunk_001"
+  },
+  {
+    "id": "57269cc3dd62a815002e8b14",
+    "question": "How many paid holiday days do most member states require?",
+    "answer": "28 days",
+    "document_id": "doc_0001",
+    "relevant_chunk_id": "doc_0001_chunk_001"
+  },
+  {
+    "id": "57269cc3dd62a815002e8b15",
+    "question": "When did the three Advocate Generals argue that Directives should create rights and duties for all citizens?",
+    "answer": "early 1990s",
+    "document_id": "doc_0001",
+    "relevant_chunk_id": "doc_0001_chunk_002"
+  },
+  {
+    "id": "57265ceddd62a815002e82b8",
+    "question": "By which year did full sized American cars shrink to be smaller?",
+    "answer": "1979",
+    "document_id": "doc_0002",
+    "relevant_chunk_id": "doc_0002_chunk_000"
+  },
+  {
+    "id": "57265ceddd62a815002e82b9",
+    "question": "By which year did Chrysler ended its full sized luxury model?",
+    "answer": "1981",
+    "document_id": "doc_0002",
+    "relevant_chunk_id": "doc_0002_chunk_000"
+  },
+  {
+    "id": "57265ceddd62a815002e82ba",
+    "question": "Which car shows the DOT's revision of categories?",
+    "answer": "Mustang I",
+    "document_id": "doc_0002",
+    "relevant_chunk_id": "doc_0002_chunk_000"
+  },
+  {
+    "id": "5727515af1498d1400e8f63a",
+    "question": "What is the Mongolian name of the first Mongolian laws codified in writing?",
+    "answer": "Ikh Zasag",
+    "document_id": "doc_0003",
+    "relevant_chunk_id": "doc_0003_chunk_000"
+  },
+  {
+    "id": "5727515af1498d1400e8f63b",
+    "question": "What did Mongolian President Tsakhiagian Elbegdorj note was significantly punished by Genghis Khan's laws?",
+    "answer": "corruption and bribery",
+    "document_id": "doc_0003",
+    "relevant_chunk_id": "doc_0003_chunk_001"
+  },
+  {
+    "id": "5727515af1498d1400e8f63c",
+    "question": "Which Mongolian president lauded Genghis Khan on the 850th anniversary of the conqueror's birth?",
+    "answer": "Tsakhiagiin Elbegdorj",
+    "document_id": "doc_0003",
+    "relevant_chunk_id": "doc_0003_chunk_001"
+  },
+  {
+    "id": "5727515af1498d1400e8f63d",
+    "question": "What innovation in Mongolian language is credited to Genghis Khan?",
+    "answer": "traditional Mongolian script",
+    "document_id": "doc_0003",
+    "relevant_chunk_id": "doc_0003_chunk_000"
+  },
+  {
+    "id": "572961f61d04691400779359",
+    "question": "What kind of membrane do primary chloroplasts have?",
+    "answer": "double",
+    "document_id": "doc_0004",
+    "relevant_chunk_id": "doc_0004_chunk_000"
+  },
+  {
+    "id": "572961f61d0469140077935a",
+    "question": "What differs about secondary chloroplasts' membranes?",
+    "answer": "additional membranes outside of the original two",
+    "document_id": "doc_0004",
+    "relevant_chunk_id": "doc_0004_chunk_000"
+  },
+  {
+    "id": "572961f61d0469140077935b",
+    "question": "What was the secondary endosymbiotic event?",
+    "answer": "a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga but failed to digest it",
+    "document_id": "doc_0004",
+    "relevant_chunk_id": "doc_0004_chunk_000"
+  },
+  {
+    "id": "572961f61d0469140077935c",
+    "question": "What additional membranes do secondary chloroplasts have?",
+    "answer": "sometimes the eaten alga's cell membrane, and the phagosomal vacuole from the host's cell membrane",
+    "document_id": "doc_0004",
+    "relevant_chunk_id": "doc_0004_chunk_001"
+  },
+  {
+    "id": "572961f61d0469140077935d",
+    "question": "What was left when engulfed algae was broken down?",
+    "answer": "its chloroplast, and sometimes its cell membrane and nucleus",
+    "document_id": "doc_0004",
+    "relevant_chunk_id": "doc_0004_chunk_000"
+  },
+  {
+    "id": "57287d4a2ca10214002da3e4",
+    "question": "What cultures were part of Kublai's administration?",
+    "answer": "Han Chinese, Khitans, Jurchens, Mongols, and Tibetan Buddhists",
+    "document_id": "doc_0005",
+    "relevant_chunk_id": "doc_0005_chunk_000"
+  },
+  {
+    "id": "57287d4a2ca10214002da3e5",
+    "question": "What dynasties inspired the Chinese-like elements of Kublai's government?",
+    "answer": "Tang, Song, as well as Khitan Liao and Jurchen Jin dynasties",
+    "document_id": "doc_0005",
+    "relevant_chunk_id": "doc_0005_chunk_001"
+  },
+  {
+    "id": "57287d4a2ca10214002da3e6",
+    "question": "Who were two of Kublai's Chinese advisers?",
+    "answer": "Liu Bingzhong and Yao Shu",
+    "document_id": "doc_0005",
+    "relevant_chunk_id": "doc_0005_chunk_001"
+  },
+  {
+    "id": "57287d4a2ca10214002da3e7",
+    "question": "What kind of division of power did Kublai's government have?",
+    "answer": "tripartite",
+    "document_id": "doc_0005",
+    "relevant_chunk_id": "doc_0005_chunk_001"
+  },
+  {
+    "id": "57287d4a2ca10214002da3e8",
+    "question": "What were the three parts of Kublai's government?",
+    "answer": "civil, military, and censorial offices",
+    "document_id": "doc_0005",
+    "relevant_chunk_id": "doc_0005_chunk_001"
+  },
+  {
+    "id": "5729ffda1d046914007796af",
+    "question": "By what process can active immunity be generated in an artificial manner?",
+    "answer": "vaccination",
+    "document_id": "doc_0006",
+    "relevant_chunk_id": "doc_0006_chunk_000"
+  },
+  {
+    "id": "5729ffda1d046914007796b0",
+    "question": "What is the process of vaccination also known as?",
+    "answer": "immunization",
+    "document_id": "doc_0006",
+    "relevant_chunk_id": "doc_0006_chunk_000"
+  },
+  {
+    "id": "5729ffda1d046914007796b1",
+    "question": "In the process of vaccination, what is introduced in order to develop a specific immunity?",
+    "answer": "an antigen from a pathogen",
+    "document_id": "doc_0006",
+    "relevant_chunk_id": "doc_0006_chunk_000"
+  },
+  {
+    "id": "5729ffda1d046914007796b2",
+    "question": "Vaccination exploits what feature of the human immune system in order to be successful?",
+    "answer": "natural specificity of the immune system",
+    "document_id": "doc_0006",
+    "relevant_chunk_id": "doc_0006_chunk_001"
+  },
+  {
+    "id": "570d44abb3d812140066d5fd",
+    "question": "By August 2010 how many public schools did Victoria have?",
+    "answer": "1,548",
+    "document_id": "doc_0007",
+    "relevant_chunk_id": "doc_0007_chunk_000"
+  },
+  {
+    "id": "570d44abb3d812140066d5fe",
+    "question": "How many Catholic schools were in Victoria?",
+    "answer": "489",
+    "document_id": "doc_0007",
+    "relevant_chunk_id": "doc_0007_chunk_000"
+  },
+  {
+    "id": "570d44abb3d812140066d5ff",
+    "question": "How many students were enrolled in public schools in Victoria?",
+    "answer": "540,800",
+    "document_id": "doc_0007",
+    "relevant_chunk_id": "doc_0007_chunk_000"
+  },
+  {
+    "id": "570d44abb3d812140066d600",
+    "question": "How many full time teachers does Victoria have?",
+    "answer": "63,519",
+    "document_id": "doc_0007",
+    "relevant_chunk_id": "doc_0007_chunk_001"
+  },
+  {
+    "id": "570d44abb3d812140066d601",
+    "question": "What percentage of private school students go to Catholic schools?",
+    "answer": "61",
+    "document_id": "doc_0007",
+    "relevant_chunk_id": "doc_0007_chunk_000"
+  },
+  {
+    "id": "56de49564396321400ee277a",
+    "question": "What continent are the Canarian Islands off the coast of?",
+    "answer": "Africa",
+    "document_id": "doc_0008",
+    "relevant_chunk_id": "doc_0008_chunk_000"
+  },
+  {
+    "id": "573755afc3c5551400e51eb3",
+    "question": "What experiences acceleration when external force is applied to a system?",
+    "answer": "center of mass",
+    "document_id": "doc_0009",
+    "relevant_chunk_id": "doc_0009_chunk_000"
+  },
+  {
+    "id": "573755afc3c5551400e51eb4",
+    "question": "In what kind of system of particles are there no unbalanced iinternal forces?",
+    "answer": "closed",
+    "document_id": "doc_0009",
+    "relevant_chunk_id": "doc_0009_chunk_000"
+  },
+  {
+    "id": "573755afc3c5551400e51eb5",
+    "question": "What is the magnitude of force divided by when external force is added?",
+    "answer": "mass of the system",
+    "document_id": "doc_0009",
+    "relevant_chunk_id": "doc_0009_chunk_001"
+  },
+  {
+    "id": "572685d1f1498d1400e8e29e",
+    "question": "What candy company did Edward John Noble own?",
+    "answer": "Life Savers candy",
+    "document_id": "doc_0010",
+    "relevant_chunk_id": "doc_0010_chunk_000"
+  },
+  {
+    "id": "572685d1f1498d1400e8e29f",
+    "question": "When was the sale of NBC Blue to Edward John Noble authorized?",
+    "answer": "October 12, 1943",
+    "document_id": "doc_0010",
+    "relevant_chunk_id": "doc_0010_chunk_000"
+  },
+  {
+    "id": "572685d1f1498d1400e8e2a0",
+    "question": "Who did Noble acquire the rights to the American Broadcasting Company name from?",
+    "answer": "George B. Storer",
+    "document_id": "doc_0010",
+    "relevant_chunk_id": "doc_0010_chunk_001"
+  },
+  {
+    "id": "572685d1f1498d1400e8e2a1",
+    "question": "What position did Mark Woods take on at the new American Broadcasting Company?",
+    "answer": "president and CEO",
+    "document_id": "doc_0010",
+    "relevant_chunk_id": "doc_0010_chunk_001"
+  },
+  {
+    "id": "572685d1f1498d1400e8e2a2",
+    "question": "When did Mark Woods leave ABC?",
+    "answer": "June 30, 1951",
+    "document_id": "doc_0010",
+    "relevant_chunk_id": "doc_0010_chunk_001"
+  },
+  {
+    "id": "56e7586d37bdd419002c3eb3",
+    "question": "How common was the form of corporal punishment in the past?",
+    "answer": "one of the most common",
+    "document_id": "doc_0011",
+    "relevant_chunk_id": "doc_0011_chunk_000"
+  },
+  {
+    "id": "56e7586d37bdd419002c3eb4",
+    "question": "Where is corporal punishment no longer practiced?",
+    "answer": "Most Western countries",
+    "document_id": "doc_0011",
+    "relevant_chunk_id": "doc_0011_chunk_000"
+  },
+  {
+    "id": "56e7586d37bdd419002c3eb5",
+    "question": "What Western country is corporal punishment still allowed?",
+    "answer": "United States",
+    "document_id": "doc_0011",
+    "relevant_chunk_id": "doc_0011_chunk_000"
+  },
+  {
+    "id": "56e7586d37bdd419002c3eb6",
+    "question": "What U.S. entity said that corporal punishment was Constitutional?",
+    "answer": "Supreme Court",
+    "document_id": "doc_0011",
+    "relevant_chunk_id": "doc_0011_chunk_000"
+  },
+  {
+    "id": "56e7586d37bdd419002c3eb7",
+    "question": "What does corporal punishment cause a student?",
+    "answer": "physical pain",
+    "document_id": "doc_0011",
+    "relevant_chunk_id": "doc_0011_chunk_000"
+  },
+  {
+    "id": "572683075951b619008f7513",
+    "question": "How are eggs and sperm released?",
+    "answer": "via pores in the epidermis",
+    "document_id": "doc_0012",
+    "relevant_chunk_id": "doc_0012_chunk_000"
+  },
+  {
+    "id": "572683075951b619008f7514",
+    "question": "How do platyctenids reproduce?",
+    "answer": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+    "document_id": "doc_0012",
+    "relevant_chunk_id": "doc_0012_chunk_000"
+  },
+  {
+    "id": "572683075951b619008f7515",
+    "question": "What genus has self-fertilization been seen?",
+    "answer": "Mnemiopsis",
+    "document_id": "doc_0012",
+    "relevant_chunk_id": "doc_0012_chunk_001"
+  },
+  {
+    "id": "572683075951b619008f7516",
+    "question": "Where are the gonads located?",
+    "answer": "in the parts of the internal canal network under the comb rows",
+    "document_id": "doc_0012",
+    "relevant_chunk_id": "doc_0012_chunk_000"
+  },
+  {
+    "id": "572683075951b619008f7517",
+    "question": "Is fertilization  internal or exeternal in most species?",
+    "answer": "external",
+    "document_id": "doc_0012",
+    "relevant_chunk_id": "doc_0012_chunk_000"
+  },
+  {
+    "id": "57281cb22ca10214002d9e1e",
+    "question": "How many Doctor Who soundtracks have been released since 2005?",
+    "answer": "Six",
+    "document_id": "doc_0013",
+    "relevant_chunk_id": "doc_0013_chunk_000"
+  },
+  {
+    "id": "57281cb22ca10214002d9e1f",
+    "question": "Which series were featured on the first Doctor Who soundtrack?",
+    "answer": "the first two series",
+    "document_id": "doc_0013",
+    "relevant_chunk_id": "doc_0013_chunk_000"
+  },
+  {
+    "id": "57281cb22ca10214002d9e20",
+    "question": "What music did the fourth soundtrack feature?",
+    "answer": "music from the 2008–2010 specials",
+    "document_id": "doc_0013",
+    "relevant_chunk_id": "doc_0013_chunk_000"
+  },
+  {
+    "id": "57281cb22ca10214002d9e21",
+    "question": "What was the name of the 2010 Christmas special?",
+    "answer": "A Christmas Carol",
+    "document_id": "doc_0013",
+    "relevant_chunk_id": "doc_0013_chunk_001"
+  },
+  {
+    "id": "57281cb22ca10214002d9e22",
+    "question": "When was the soundtrack for series 5 released?",
+    "answer": "8 November 2010",
+    "document_id": "doc_0013",
+    "relevant_chunk_id": "doc_0013_chunk_000"
+  },
+  {
+    "id": "572fc41f947a6a140053cc80",
+    "question": "Who decides who gets to speak in the chamber debates?",
+    "answer": "The Presiding Officer",
+    "document_id": "doc_0014",
+    "relevant_chunk_id": "doc_0014_chunk_000"
+  },
+  {
+    "id": "572fc41f947a6a140053cc81",
+    "question": "What is also decided by the Presiding Officer?",
+    "answer": "amount of time for which they are allowed to speak",
+    "document_id": "doc_0014",
+    "relevant_chunk_id": "doc_0014_chunk_000"
+  },
+  {
+    "id": "572fc41f947a6a140053cc82",
+    "question": "What does the Presiding Officer try to achieve a balance of between speakers?",
+    "answer": "different viewpoints",
+    "document_id": "doc_0014",
+    "relevant_chunk_id": "doc_0014_chunk_000"
+  },
+  {
+    "id": "572fc41f947a6a140053cc83",
+    "question": "What members typically open debates?",
+    "answer": "ministers or party leaders",
+    "document_id": "doc_0014",
+    "relevant_chunk_id": "doc_0014_chunk_000"
+  },
+  {
+    "id": "572fc41f947a6a140053cc84",
+    "question": "What language other than English has the Scottish Parliament had meetings in?",
+    "answer": "Gaelic",
+    "document_id": "doc_0014",
+    "relevant_chunk_id": "doc_0014_chunk_002"
+  },
+  {
+    "id": "57273d06f1498d1400e8f4f6",
+    "question": "What would Mongol armies divert in order to cut off the resources of cities they were attacking?",
+    "answer": "rivers",
+    "document_id": "doc_0015",
+    "relevant_chunk_id": "doc_0015_chunk_000"
+  },
+  {
+    "id": "57273d06f1498d1400e8f4f7",
+    "question": "What were the cultural origins of the engineers and technology adopted by the Mongol military?",
+    "answer": "Muslim and Chinese",
+    "document_id": "doc_0015",
+    "relevant_chunk_id": "doc_0015_chunk_000"
+  },
+  {
+    "id": "57273d06f1498d1400e8f4f8",
+    "question": "How did Mongol armies lure enemy groups out of their defensive positions?",
+    "answer": "feigned retreat",
+    "document_id": "doc_0015",
+    "relevant_chunk_id": "doc_0015_chunk_000"
+  },
+  {
+    "id": "57273d06f1498d1400e8f4f9",
+    "question": "How were enemy prisoners used tactically by Mongol armies?",
+    "answer": "driving them in front of the army",
+    "document_id": "doc_0015",
+    "relevant_chunk_id": "doc_0015_chunk_000"
+  },
+  {
+    "id": "5726e671dd62a815002e9464",
+    "question": "What series is the longest running program in ABC history?",
+    "answer": "General Hospital",
+    "document_id": "doc_0016",
+    "relevant_chunk_id": "doc_0016_chunk_000"
+  },
+  {
+    "id": "5726e671dd62a815002e9465",
+    "question": "When did Good Morning America begin airing?",
+    "answer": "1975",
+    "document_id": "doc_0016",
+    "relevant_chunk_id": "doc_0016_chunk_000"
+  },
+  {
+    "id": "5726e671dd62a815002e9466",
+    "question": "Which Proctor and Gamble produced soap opera did ABC air?",
+    "answer": "The Edge of Night",
+    "document_id": "doc_0016",
+    "relevant_chunk_id": "doc_0016_chunk_001"
+  },
+  {
+    "id": "5726e671dd62a815002e9467",
+    "question": "What are ABC's current daytime talk shows?",
+    "answer": "The View and The Chew",
+    "document_id": "doc_0016",
+    "relevant_chunk_id": "doc_0016_chunk_000"
+  },
+  {
+    "id": "5726e671dd62a815002e9468",
+    "question": "When did General Hospital begin airing?",
+    "answer": "1963",
+    "document_id": "doc_0016",
+    "relevant_chunk_id": "doc_0016_chunk_000"
+  },
+  {
+    "id": "5727580bf1498d1400e8f69a",
+    "question": "Which Mongolian word meaning wide-spreading may have contributed to the appellation Genghis?",
+    "answer": "tenggis",
+    "document_id": "doc_0017",
+    "relevant_chunk_id": "doc_0017_chunk_000"
+  },
+  {
+    "id": "5727580bf1498d1400e8f69b",
+    "question": "Which massive lake did the Mongolians call tenggis?",
+    "answer": "Lake Baikal",
+    "document_id": "doc_0017",
+    "relevant_chunk_id": "doc_0017_chunk_000"
+  },
+  {
+    "id": "5727580bf1498d1400e8f69c",
+    "question": "What does zhèng mean?",
+    "answer": "\"right\", \"just\", or \"true\"",
+    "document_id": "doc_0017",
+    "relevant_chunk_id": "doc_0017_chunk_000"
+  },
+  {
+    "id": "5727580bf1498d1400e8f69d",
+    "question": "Jenggis is the adjectival form of what word?",
+    "answer": "Zhèng",
+    "document_id": "doc_0017",
+    "relevant_chunk_id": "doc_0017_chunk_000"
+  },
+  {
+    "id": "5727580bf1498d1400e8f69e",
+    "question": "What spelling of Genghis most closely matches its probable pronunciation?",
+    "answer": "Chinggis",
+    "document_id": "doc_0017",
+    "relevant_chunk_id": "doc_0017_chunk_001"
+  },
+  {
+    "id": "5710f114a58dae1900cd6b60",
+    "question": "What English law made that country more welcoming to Huguenots?",
+    "answer": "Foreign Protestants Naturalization Act",
+    "document_id": "doc_0018",
+    "relevant_chunk_id": "doc_0018_chunk_000"
+  },
+  {
+    "id": "5710f114a58dae1900cd6b61",
+    "question": "When was this naturalization act passed?",
+    "answer": "1708",
+    "document_id": "doc_0018",
+    "relevant_chunk_id": "doc_0018_chunk_000"
+  },
+  {
+    "id": "5710f114a58dae1900cd6b62",
+    "question": "About how many Walloons and Huguenots emigrated to England and Ireland in this era?",
+    "answer": "50,000",
+    "document_id": "doc_0018",
+    "relevant_chunk_id": "doc_0018_chunk_000"
+  },
+  {
+    "id": "5710f114a58dae1900cd6b63",
+    "question": "Who was the famous Huguenot theologian and writer in London?",
+    "answer": "Andrew Lortie",
+    "document_id": "doc_0018",
+    "relevant_chunk_id": "doc_0018_chunk_000"
+  },
+  {
+    "id": "5710f114a58dae1900cd6b64",
+    "question": "What Catholic Church liturgical belief did Lortie criticize openly?",
+    "answer": "the doctrine of transubstantiation",
+    "document_id": "doc_0018",
+    "relevant_chunk_id": "doc_0018_chunk_001"
+  },
+  {
+    "id": "572683e6f1498d1400e8e24c",
+    "question": "What is an annual two-day multicultural event held in Newcastle in late August?",
+    "answer": "Newcastle Mela",
+    "document_id": "doc_0019",
+    "relevant_chunk_id": "doc_0019_chunk_000"
+  },
+  {
+    "id": "572683e6f1498d1400e8e24e",
+    "question": "Where will the 2009 International Arts Fair be held?",
+    "answer": "Sage Gateshead Music and Arts Centre",
+    "document_id": "doc_0019",
+    "relevant_chunk_id": "doc_0019_chunk_000"
+  },
+  {
+    "id": "572683e6f1498d1400e8e24f",
+    "question": "What festival is held in October in Newcastle?",
+    "answer": "Design Event festival",
+    "document_id": "doc_0019",
+    "relevant_chunk_id": "doc_0019_chunk_000"
+  },
+  {
+    "id": "572683e6f1498d1400e8e250",
+    "question": "What cultural festival is the SAMA festival?",
+    "answer": "East Asian",
+    "document_id": "doc_0019",
+    "relevant_chunk_id": "doc_0019_chunk_001"
+  },
+  {
+    "id": "572683e6f1498d1400e8e24d",
+    "question": "Who holds an annual International Arts Fair in Newcastle?",
+    "answer": "NewcastleGateshead",
+    "document_id": "doc_0019",
+    "relevant_chunk_id": "doc_0019_chunk_000"
+  },
+  {
+    "id": "57268731f1498d1400e8e2e2",
+    "question": "What is the earliest known movie featuring scenes filmed outdoors in Newcastle?",
+    "answer": "On the Night of the Fire",
+    "document_id": "doc_0020",
+    "relevant_chunk_id": "doc_0020_chunk_000"
+  },
+  {
+    "id": "57268731f1498d1400e8e2e3",
+    "question": "What 1971 film was shot on location in Newcastle?",
+    "answer": "Get Carter",
+    "document_id": "doc_0020",
+    "relevant_chunk_id": "doc_0020_chunk_000"
+  },
+  {
+    "id": "57268731f1498d1400e8e2e4",
+    "question": "What genre of film was the 1988 film Stormy Monday?",
+    "answer": "gangster",
+    "document_id": "doc_0020",
+    "relevant_chunk_id": "doc_0020_chunk_000"
+  },
+  {
+    "id": "57268731f1498d1400e8e2e5",
+    "question": "Who directed Stormy Monday?",
+    "answer": "Mike Figgis",
+    "document_id": "doc_0020",
+    "relevant_chunk_id": "doc_0020_chunk_001"
+  },
+  {
+    "id": "57268731f1498d1400e8e2e6",
+    "question": "What famous musician starred in Stormy Monday?",
+    "answer": "Sting",
+    "document_id": "doc_0020",
+    "relevant_chunk_id": "doc_0020_chunk_001"
+  },
+  {
+    "id": "5726e4eedd62a815002e9438",
+    "question": "When did the V&A acquired the Costiff collection?",
+    "answer": "2002",
+    "document_id": "doc_0021",
+    "relevant_chunk_id": "doc_0021_chunk_000"
+  },
+  {
+    "id": "5726e4eedd62a815002e9439",
+    "question": "The Costiff collection comprised costumes designed by which British fashion icon?",
+    "answer": "Vivienne Westwood",
+    "document_id": "doc_0021",
+    "relevant_chunk_id": "doc_0021_chunk_000"
+  },
+  {
+    "id": "5726e4eedd62a815002e943a",
+    "question": "How many costumes were in the Costiff collection?",
+    "answer": "178",
+    "document_id": "doc_0021",
+    "relevant_chunk_id": "doc_0021_chunk_000"
+  },
+  {
+    "id": "5726e4eedd62a815002e943b",
+    "question": "What costumes collection did the V&A acquired in 2002?",
+    "answer": "Costiff",
+    "document_id": "doc_0021",
+    "relevant_chunk_id": "doc_0021_chunk_000"
+  },
+  {
+    "id": "5726e4eedd62a815002e943c",
+    "question": "Which examples of fashion does the museum continue to acquire for its collection?",
+    "answer": "modern",
+    "document_id": "doc_0021",
+    "relevant_chunk_id": "doc_0021_chunk_000"
+  },
+  {
+    "id": "56e12005cd28a01900c67617",
+    "question": "Who was Tesla prejudiced against?",
+    "answer": "overweight people",
+    "document_id": "doc_0022",
+    "relevant_chunk_id": "doc_0022_chunk_000"
+  },
+  {
+    "id": "56e12005cd28a01900c67618",
+    "question": "Who did he fire?",
+    "answer": "secretary",
+    "document_id": "doc_0022",
+    "relevant_chunk_id": "doc_0022_chunk_000"
+  },
+  {
+    "id": "56e12005cd28a01900c67619",
+    "question": "Why did he fire the secretary?",
+    "answer": "her weight",
+    "document_id": "doc_0022",
+    "relevant_chunk_id": "doc_0022_chunk_000"
+  },
+  {
+    "id": "56e12005cd28a01900c6761a",
+    "question": "What did he make the employee do when he didn't like her outfit?",
+    "answer": "go home and change",
+    "document_id": "doc_0022",
+    "relevant_chunk_id": "doc_0022_chunk_000"
+  },
+  {
+    "id": "57297991af94a219006aa4b7",
+    "question": "Why are chloroplasts of interest in GMO crops?",
+    "answer": "transgenes in these plastids cannot be disseminated by pollen",
+    "document_id": "doc_0023",
+    "relevant_chunk_id": "doc_0023_chunk_000"
+  },
+  {
+    "id": "57297991af94a219006aa4b8",
+    "question": "What is reduced by using plastid transformation for gene modification?",
+    "answer": "environmental risks",
+    "document_id": "doc_0023",
+    "relevant_chunk_id": "doc_0023_chunk_000"
+  },
+  {
+    "id": "57297991af94a219006aa4b9",
+    "question": "What was the containment failure rate in a tobacco plant study using plastid transformation?",
+    "answer": "3 in 1,000,000",
+    "document_id": "doc_0023",
+    "relevant_chunk_id": "doc_0023_chunk_001"
+  },
+  {
+    "id": "57297991af94a219006aa4ba",
+    "question": "What are plants with plastid gene transformations called?",
+    "answer": "transplastomic",
+    "document_id": "doc_0023",
+    "relevant_chunk_id": "doc_0023_chunk_001"
+  },
+  {
+    "id": "57286d7d4b864d19001649e0",
+    "question": "What minimalist composer is also a university graduate?",
+    "answer": "Philip Glass",
+    "document_id": "doc_0024",
+    "relevant_chunk_id": "doc_0024_chunk_000"
+  },
+  {
+    "id": "57286d7d4b864d19001649e1",
+    "question": "What is the name of the Bungie Inc. founder who is also a university graduate?",
+    "answer": "Alex Seropian",
+    "document_id": "doc_0024",
+    "relevant_chunk_id": "doc_0024_chunk_000"
+  },
+  {
+    "id": "57286d7d4b864d19001649e2",
+    "question": "What video game series did Alex Seropian make?",
+    "answer": "Halo",
+    "document_id": "doc_0024",
+    "relevant_chunk_id": "doc_0024_chunk_000"
+  },
+  {
+    "id": "57286d7d4b864d19001649e3",
+    "question": "What American actor is also a university graduate?",
+    "answer": "Ed Asner",
+    "document_id": "doc_0024",
+    "relevant_chunk_id": "doc_0024_chunk_000"
+  },
+  {
+    "id": "57286d7d4b864d19001649e4",
+    "question": "What comedian is also a university graduate? ",
+    "answer": "Mike Nichols",
+    "document_id": "doc_0024",
+    "relevant_chunk_id": "doc_0024_chunk_000"
+  },
+  {
+    "id": "572975073f37b31900478415",
+    "question": "What do chloroplasts do like mitochondria?",
+    "answer": "generate ATP energy",
+    "document_id": "doc_0025",
+    "relevant_chunk_id": "doc_0025_chunk_000"
+  },
+  {
+    "id": "572975073f37b31900478416",
+    "question": "Where do chloroplasts pump hydrogen?",
+    "answer": "into the thylakoid space",
+    "document_id": "doc_0025",
+    "relevant_chunk_id": "doc_0025_chunk_000"
+  },
+  {
+    "id": "572975073f37b31900478417",
+    "question": "How concentrated do the hydrogen ions get in the thylakoid space?",
+    "answer": "up to a thousand times",
+    "document_id": "doc_0025",
+    "relevant_chunk_id": "doc_0025_chunk_000"
+  },
+  {
+    "id": "572975073f37b31900478418",
+    "question": "What does ATP synthase change into ATP?",
+    "answer": "phosphorylate adenosine diphosphate",
+    "document_id": "doc_0025",
+    "relevant_chunk_id": "doc_0025_chunk_001"
+  },
+  {
+    "id": "572975073f37b31900478419",
+    "question": "What does ATP mean?",
+    "answer": "adenosine triphosphate",
+    "document_id": "doc_0025",
+    "relevant_chunk_id": "doc_0025_chunk_001"
+  },
+  {
+    "id": "5705fd8475f01819005e7841",
+    "question": "The region spans starting at islands found in which body of water?",
+    "answer": "Pacific Ocean",
+    "document_id": "doc_0026",
+    "relevant_chunk_id": "doc_0026_chunk_000"
+  },
+  {
+    "id": "5705fd8475f01819005e7840",
+    "question": "What term best describes southern California's collection of landscapes?",
+    "answer": "varied",
+    "document_id": "doc_0026",
+    "relevant_chunk_id": "doc_0026_chunk_000"
+  },
+  {
+    "id": "5705fd8475f01819005e7842",
+    "question": "What type of landscapes other than geologic and natural ecosystem landscapes can be found in southern California?",
+    "answer": "topographic",
+    "document_id": "doc_0026",
+    "relevant_chunk_id": "doc_0026_chunk_000"
+  },
+  {
+    "id": "5705fd8475f01819005e7843",
+    "question": "The region spans which mountains other than the Transverse ranges?",
+    "answer": "Peninsular",
+    "document_id": "doc_0026",
+    "relevant_chunk_id": "doc_0026_chunk_000"
+  },
+  {
+    "id": "5705fd8475f01819005e7844",
+    "question": "The mountain ranges tail off into what kind of geographical formation?",
+    "answer": "valleys",
+    "document_id": "doc_0026",
+    "relevant_chunk_id": "doc_0026_chunk_000"
+  },
+  {
+    "id": "57309bfb8ab72b1400f9c5e6",
+    "question": "Theories on imperialism use which country as a model?",
+    "answer": "British",
+    "document_id": "doc_0027",
+    "relevant_chunk_id": "doc_0027_chunk_000"
+  },
+  {
+    "id": "57309bfb8ab72b1400f9c5e7",
+    "question": "When did the term imperialism first come to be used by its current definition?",
+    "answer": "in the late 1870s",
+    "document_id": "doc_0027",
+    "relevant_chunk_id": "doc_0027_chunk_000"
+  },
+  {
+    "id": "57309bfb8ab72b1400f9c5e8",
+    "question": "What was the idealized value of imperialism?",
+    "answer": "philanthropy",
+    "document_id": "doc_0027",
+    "relevant_chunk_id": "doc_0027_chunk_000"
+  },
+  {
+    "id": "57309bfb8ab72b1400f9c5e9",
+    "question": "According to Lenin why must capitalistic countries have an imperialistic policy?",
+    "answer": "to constantly expand investment",
+    "document_id": "doc_0027",
+    "relevant_chunk_id": "doc_0027_chunk_002"
+  },
+  {
+    "id": "57106185b654c5140001f8db",
+    "question": "The term Huguenot was originally meant to confer?",
+    "answer": "derision",
+    "document_id": "doc_0028",
+    "relevant_chunk_id": "doc_0028_chunk_000"
+  },
+  {
+    "id": "57106185b654c5140001f8dd",
+    "question": "What Swiss city was the center of the Calvinist movement?",
+    "answer": "Geneva",
+    "document_id": "doc_0028",
+    "relevant_chunk_id": "doc_0028_chunk_001"
+  },
+  {
+    "id": "57106185b654c5140001f8dc",
+    "question": "The term may be related to what politician from Switzerland?",
+    "answer": "Besançon Hugues",
+    "document_id": "doc_0028",
+    "relevant_chunk_id": "doc_0028_chunk_000"
+  },
+  {
+    "id": "57106185b654c5140001f8de",
+    "question": "What name was given to the plot to usurp power from the French House of Guise?",
+    "answer": "Amboise plot",
+    "document_id": "doc_0028",
+    "relevant_chunk_id": "doc_0028_chunk_002"
+  },
+  {
+    "id": "57106185b654c5140001f8df",
+    "question": "When did this attempt take place?",
+    "answer": "1560",
+    "document_id": "doc_0028",
+    "relevant_chunk_id": "doc_0028_chunk_002"
+  },
+  {
+    "id": "57302bd0b2c2fd14005689db",
+    "question": "What type of group is The Islamic State?",
+    "answer": "Wahhabi/Salafi jihadist extremist militant",
+    "document_id": "doc_0029",
+    "relevant_chunk_id": "doc_0029_chunk_000"
+  },
+  {
+    "id": "57302bd0b2c2fd14005689dc",
+    "question": "Who leads The Islamic State?",
+    "answer": "Sunni Arabs",
+    "document_id": "doc_0029",
+    "relevant_chunk_id": "doc_0029_chunk_000"
+  },
+  {
+    "id": "57302bd0b2c2fd14005689de",
+    "question": "How many people did the Islamic State control the territory of as of March 2015?",
+    "answer": "ten million",
+    "document_id": "doc_0029",
+    "relevant_chunk_id": "doc_0029_chunk_001"
+  },
+  {
+    "id": "57302bd0b2c2fd14005689df",
+    "question": "What does the Islamic State lack from the international community?",
+    "answer": "recognition",
+    "document_id": "doc_0029",
+    "relevant_chunk_id": "doc_0029_chunk_001"
+  },
+  {
+    "id": "57302bd0b2c2fd14005689dd",
+    "question": "What did the Islamic State proclaim itself in 2014?",
+    "answer": "a caliphate",
+    "document_id": "doc_0029",
+    "relevant_chunk_id": "doc_0029_chunk_000"
+  },
+  {
+    "id": "56e1c4fce3433e140042314e",
+    "question": "What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?",
+    "answer": "BPP, ZPP and RP",
+    "document_id": "doc_0030",
+    "relevant_chunk_id": "doc_0030_chunk_000"
+  },
+  {
+    "id": "56e1c4fce3433e140042314f",
+    "question": "AC and NC are complexity classes typically associated with what type of circuit?",
+    "answer": "Boolean",
+    "document_id": "doc_0030",
+    "relevant_chunk_id": "doc_0030_chunk_000"
+  },
+  {
+    "id": "56e1c4fce3433e1400423150",
+    "question": "BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?",
+    "answer": "quantum",
+    "document_id": "doc_0030",
+    "relevant_chunk_id": "doc_0030_chunk_000"
+  },
+  {
+    "id": "56e1c4fce3433e1400423151",
+    "question": "What is the expression used to represent a complexity class of counting problems?",
+    "answer": "#P",
+    "document_id": "doc_0030",
+    "relevant_chunk_id": "doc_0030_chunk_000"
+  },
+  {
+    "id": "56e1c4fce3433e1400423152",
+    "question": "IP and AM are most commonly defined by what type of proof system?",
+    "answer": "Interactive",
+    "document_id": "doc_0030",
+    "relevant_chunk_id": "doc_0030_chunk_000"
+  },
+  {
+    "id": "572914441d04691400779025",
+    "question": "When did President Uhuru Kenyatta sign a Security Law Amendment Bill?",
+    "answer": "December 2014",
+    "document_id": "doc_0031",
+    "relevant_chunk_id": "doc_0031_chunk_000"
+  },
+  {
+    "id": "572914441d04691400779026",
+    "question": "Why was this bill nessecary? ",
+    "answer": "to guard against armed groups",
+    "document_id": "doc_0031",
+    "relevant_chunk_id": "doc_0031_chunk_000"
+  },
+  {
+    "id": "572914441d04691400779027",
+    "question": "Who criticised the security bill?",
+    "answer": "Opposition politicians, human rights groups, and nine Western countries",
+    "document_id": "doc_0031",
+    "relevant_chunk_id": "doc_0031_chunk_000"
+  },
+  {
+    "id": "572914441d04691400779028",
+    "question": "Why did so many not approve of the bill?",
+    "answer": "it infringed on democratic freedoms",
+    "document_id": "doc_0031",
+    "relevant_chunk_id": "doc_0031_chunk_000"
+  },
+  {
+    "id": "572914441d04691400779029",
+    "question": "Who warned of the potential impact?",
+    "answer": "of the United States, Britain, Germany and France",
+    "document_id": "doc_0031",
+    "relevant_chunk_id": "doc_0031_chunk_000"
+  },
+  {
+    "id": "56f86b44a6d7ea1400e175f5",
+    "question": "When did Martin Luther publish his translation of the New Testament?",
+    "answer": "1522",
+    "document_id": "doc_0032",
+    "relevant_chunk_id": "doc_0032_chunk_000"
+  },
+  {
+    "id": "56f86b44a6d7ea1400e175f6",
+    "question": "When was the Old Testament translation finished?",
+    "answer": "1534",
+    "document_id": "doc_0032",
+    "relevant_chunk_id": "doc_0032_chunk_000"
+  },
+  {
+    "id": "56f86b44a6d7ea1400e175f7",
+    "question": "What did he work on refining until the end of his life?",
+    "answer": "the translation",
+    "document_id": "doc_0032",
+    "relevant_chunk_id": "doc_0032_chunk_000"
+  },
+  {
+    "id": "56f86b44a6d7ea1400e175f8",
+    "question": "What word was Luther criticized for adding in Romans3:28?",
+    "answer": "alone",
+    "document_id": "doc_0032",
+    "relevant_chunk_id": "doc_0032_chunk_000"
+  },
+  {
+    "id": "56f86b44a6d7ea1400e175f9",
+    "question": "According to Luther what justifies us?",
+    "answer": "Faith alone",
+    "document_id": "doc_0032",
+    "relevant_chunk_id": "doc_0032_chunk_001"
+  },
+  {
+    "id": "57297547af94a219006aa45b",
+    "question": "What number did early Greeks not regard as a true number?",
+    "answer": "1",
+    "document_id": "doc_0033",
+    "relevant_chunk_id": "doc_0033_chunk_000"
+  },
+  {
+    "id": "57297547af94a219006aa45c",
+    "question": "Who included 1 as the first prime number in the mid 18th century?",
+    "answer": "Christian Goldbach",
+    "document_id": "doc_0033",
+    "relevant_chunk_id": "doc_0033_chunk_000"
+  },
+  {
+    "id": "57297547af94a219006aa45d",
+    "question": "In the mid 18th century, who did not concur that 1 should be the first prime number?",
+    "answer": "Leonhard Euler",
+    "document_id": "doc_0033",
+    "relevant_chunk_id": "doc_0033_chunk_000"
+  },
+  {
+    "id": "57297547af94a219006aa45e",
+    "question": "How many primes were included in Derrick Norman Lehmer's list of prime numbers?",
+    "answer": "10,006,721",
+    "document_id": "doc_0033",
+    "relevant_chunk_id": "doc_0033_chunk_000"
+  },
+  {
+    "id": "57297547af94a219006aa45f",
+    "question": "What type of number do modern mathematicians consider 1 to be?",
+    "answer": "its own special category as a \"unit\"",
+    "document_id": "doc_0033",
+    "relevant_chunk_id": "doc_0033_chunk_001"
+  },
+  {
+    "id": "571c7d55dd7acb1400e4c0c4",
+    "question": "What did John Dalton think that all elements were in number present in compounds?",
+    "answer": "monatomic",
+    "document_id": "doc_0034",
+    "relevant_chunk_id": "doc_0034_chunk_000"
+  },
+  {
+    "id": "571c7d55dd7acb1400e4c0c5",
+    "question": "What did Dalton think the atomic ratios were between atoms in compounds?",
+    "answer": "simplest",
+    "document_id": "doc_0034",
+    "relevant_chunk_id": "doc_0034_chunk_000"
+  },
+  {
+    "id": "571c7d55dd7acb1400e4c0c6",
+    "question": "What was Dalton's erroneous formula for water?",
+    "answer": "HO",
+    "document_id": "doc_0034",
+    "relevant_chunk_id": "doc_0034_chunk_000"
+  },
+  {
+    "id": "571c7d55dd7acb1400e4c0c7",
+    "question": "What element did Gay-Lussac and von Humboldt discover was present in twice the amount of oxygen in water?",
+    "answer": "hydrogen",
+    "document_id": "doc_0034",
+    "relevant_chunk_id": "doc_0034_chunk_000"
+  },
+  {
+    "id": "571c7d55dd7acb1400e4c0c8",
+    "question": "What theory was arrived at in 1811 that presented the assumption of diatomic molecules?",
+    "answer": "Avogadro's law",
+    "document_id": "doc_0034",
+    "relevant_chunk_id": "doc_0034_chunk_001"
+  },
+  {
+    "id": "5733ea04d058e614000b6594",
+    "question": "Who took command of French in spring of 1753?",
+    "answer": "Paul Marin de la Malgue",
+    "document_id": "doc_0035",
+    "relevant_chunk_id": "doc_0035_chunk_000"
+  },
+  {
+    "id": "5733ea04d058e614000b6595",
+    "question": "Where did Marin build first fort?",
+    "answer": "Fort Presque Isle (near present-day Erie, Pennsylvania",
+    "document_id": "doc_0035",
+    "relevant_chunk_id": "doc_0035_chunk_000"
+  },
+  {
+    "id": "5733ea04d058e614000b6596",
+    "question": "Where was Marin's second fort constructed?",
+    "answer": "Fort Le Boeuf (present-day Waterford, Pennsylvania",
+    "document_id": "doc_0035",
+    "relevant_chunk_id": "doc_0035_chunk_001"
+  },
+  {
+    "id": "5733ea04d058e614000b6597",
+    "question": "What was Marin's orders?",
+    "answer": "protect the King's land in the Ohio Valley from the British",
+    "document_id": "doc_0035",
+    "relevant_chunk_id": "doc_0035_chunk_000"
+  },
+  {
+    "id": "5733ea04d058e614000b6598",
+    "question": "What native chief travelled to French fort and threatened Marin?",
+    "answer": "Tanaghrisson",
+    "document_id": "doc_0035",
+    "relevant_chunk_id": "doc_0035_chunk_001"
+  },
+  {
+    "id": "57280757ff5b5019007d9b42",
+    "question": "What term is used to explain a change in the appearance of Doctor Who?",
+    "answer": "regeneration",
+    "document_id": "doc_0036",
+    "relevant_chunk_id": "doc_0036_chunk_000"
+  },
+  {
+    "id": "57280757ff5b5019007d9b43",
+    "question": "When was the term \"regeneration\" first used?",
+    "answer": "the Doctor's third on-screen regeneration",
+    "document_id": "doc_0036",
+    "relevant_chunk_id": "doc_0036_chunk_000"
+  },
+  {
+    "id": "57280757ff5b5019007d9b44",
+    "question": "What first prompted the regeneration concept?",
+    "answer": "William Hartnell's poor health",
+    "document_id": "doc_0036",
+    "relevant_chunk_id": "doc_0036_chunk_000"
+  },
+  {
+    "id": "57280757ff5b5019007d9b45",
+    "question": "What term was used for the first regeneration?",
+    "answer": "renewal",
+    "document_id": "doc_0036",
+    "relevant_chunk_id": "doc_0036_chunk_000"
+  },
+  {
+    "id": "57280757ff5b5019007d9b46",
+    "question": "What term was used for the second regeneration?",
+    "answer": "change of appearance",
+    "document_id": "doc_0036",
+    "relevant_chunk_id": "doc_0036_chunk_000"
+  },
+  {
+    "id": "5726ea985951b619008f8261",
+    "question": "What is consultant pharmacy mainly concerned with?",
+    "answer": "medication regimen review",
+    "document_id": "doc_0037",
+    "relevant_chunk_id": "doc_0037_chunk_000"
+  },
+  {
+    "id": "5726ea985951b619008f8262",
+    "question": "Where do a majority of consultant pharmacists tend to work?",
+    "answer": "nursing homes",
+    "document_id": "doc_0037",
+    "relevant_chunk_id": "doc_0037_chunk_000"
+  },
+  {
+    "id": "5726ea985951b619008f8263",
+    "question": "What are some large pharmacy management companies?",
+    "answer": "Omnicare, Kindred Healthcare and PharMerica",
+    "document_id": "doc_0037",
+    "relevant_chunk_id": "doc_0037_chunk_001"
+  },
+  {
+    "id": "5726ea985951b619008f8264",
+    "question": "What is the main reason consulting pharmacists are increasingly working directly with patients?",
+    "answer": "because many elderly people are now taking numerous medications but continue to live outside of institutional settings",
+    "document_id": "doc_0037",
+    "relevant_chunk_id": "doc_0037_chunk_001"
+  },
+  {
+    "id": "5726ea985951b619008f8265",
+    "question": "What do some community pharmacies do?",
+    "answer": "employ consultant pharmacists and/or provide consulting services",
+    "document_id": "doc_0037",
+    "relevant_chunk_id": "doc_0037_chunk_001"
+  },
+  {
+    "id": "5726f90b708984140094d75d",
+    "question": "Who created the photographic series titled Animal Locomotion?",
+    "answer": "Eadweard Muybridge",
+    "document_id": "doc_0038",
+    "relevant_chunk_id": "doc_0038_chunk_000"
+  },
+  {
+    "id": "5726f90b708984140094d75e",
+    "question": "In which year was the Animal Locomotion collection created?",
+    "answer": "1887",
+    "document_id": "doc_0038",
+    "relevant_chunk_id": "doc_0038_chunk_000"
+  },
+  {
+    "id": "5726f90b708984140094d75f",
+    "question": "How many photographic plates comprise the Animal Locomotion collection?",
+    "answer": "781",
+    "document_id": "doc_0038",
+    "relevant_chunk_id": "doc_0038_chunk_000"
+  },
+  {
+    "id": "5726f90b708984140094d760",
+    "question": "What do the Animal Locomotion photographs capture?",
+    "answer": "animals and humans performimg various actions",
+    "document_id": "doc_0038",
+    "relevant_chunk_id": "doc_0038_chunk_000"
+  },
+  {
+    "id": "5726f90b708984140094d761",
+    "question": "Whose society portraits from the late 19th to early 20th centuries does the V&A hold?",
+    "answer": "James Lafayette",
+    "document_id": "doc_0038",
+    "relevant_chunk_id": "doc_0038_chunk_000"
+  },
+  {
+    "id": "5725e1c4271a42140099d2d7",
+    "question": "During what period did the Tower Theatre re-open?",
+    "answer": "late 1970s",
+    "document_id": "doc_0039",
+    "relevant_chunk_id": "doc_0039_chunk_000"
+  },
+  {
+    "id": "5725e1c4271a42140099d2d8",
+    "question": "After its re-opening, which types of movies did the Tower Theatre show?",
+    "answer": "second and third run movies, along with classic films",
+    "document_id": "doc_0039",
+    "relevant_chunk_id": "doc_0039_chunk_000"
+  },
+  {
+    "id": "5725e1c4271a42140099d2d9",
+    "question": "In what year did Roger Rocka's Dinner Theater & Good Company Players open?",
+    "answer": "1978",
+    "document_id": "doc_0039",
+    "relevant_chunk_id": "doc_0039_chunk_000"
+  },
+  {
+    "id": "5725e1c4271a42140099d2da",
+    "question": "Where is Audra McDonald from?",
+    "answer": "Fresno",
+    "document_id": "doc_0039",
+    "relevant_chunk_id": "doc_0039_chunk_001"
+  },
+  {
+    "id": "5725e1c4271a42140099d2db",
+    "question": "Which two leading roles did Audra McDonald perform when she was in high school?",
+    "answer": "Evita and The Wiz",
+    "document_id": "doc_0039",
+    "relevant_chunk_id": "doc_0039_chunk_001"
+  },
+  {
+    "id": "5726710b708984140094c61d",
+    "question": "where is the Victoria and Albert Museum located?",
+    "answer": "The V&A is located in the Brompton district of the Royal Borough of Kensington and Chelsea",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_000"
+  },
+  {
+    "id": "5726710b708984140094c61e",
+    "question": "how many permanent objects are located there?",
+    "answer": "a permanent collection of over 4.5 million objects.",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_000"
+  },
+  {
+    "id": "5726710b708984140094c61f",
+    "question": "when was the Victoria and Albert museum founded?",
+    "answer": "It was founded in 1852",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_000"
+  },
+  {
+    "id": "5726710b708984140094c620",
+    "question": "Who is the museum named for?",
+    "answer": "named after Queen Victoria and Prince Albert",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_000"
+  },
+  {
+    "id": "572680ac708984140094c83d",
+    "question": "In which London borough is the Victoria and Albert Museum located?",
+    "answer": "Royal Borough of Kensington and Chelsea",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_000"
+  },
+  {
+    "id": "572680ac708984140094c83e",
+    "question": "In what year was the Victoria and Albert Museum founded?",
+    "answer": "1852",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_000"
+  },
+  {
+    "id": "572680ac708984140094c83f",
+    "question": "Which monarchs was the Victoria and Albert Museum named after?",
+    "answer": "Queen Victoria and Prince Albert",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_000"
+  },
+  {
+    "id": "572680ac708984140094c840",
+    "question": "Which department sponsors the Victoria and Albert Museum?",
+    "answer": "Department for Culture, Media and Sport",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_001"
+  },
+  {
+    "id": "572680ac708984140094c841",
+    "question": "In which year did the museum started charging free admission fees?",
+    "answer": "2001",
+    "document_id": "doc_0040",
+    "relevant_chunk_id": "doc_0040_chunk_001"
+  },
+  {
+    "id": "5727515f708984140094dc11",
+    "question": "What South African law recognized two types of schools?",
+    "answer": "South African Schools Act",
+    "document_id": "doc_0041",
+    "relevant_chunk_id": "doc_0041_chunk_000"
+  },
+  {
+    "id": "5727515f708984140094dc12",
+    "question": "In what year was the South African Schools Act passed?",
+    "answer": "1996",
+    "document_id": "doc_0041",
+    "relevant_chunk_id": "doc_0041_chunk_000"
+  },
+  {
+    "id": "5727515f708984140094dc13",
+    "question": "Along with public schools, what type of school was recognized under the South African Schools Act?",
+    "answer": "independent",
+    "document_id": "doc_0041",
+    "relevant_chunk_id": "doc_0041_chunk_000"
+  },
+  {
+    "id": "5727515f708984140094dc14",
+    "question": "In South Africa, along with privately governed schools, what schools are classified as independent?",
+    "answer": "traditional private",
+    "document_id": "doc_0041",
+    "relevant_chunk_id": "doc_0041_chunk_000"
+  },
+  {
+    "id": "5727515f708984140094dc15",
+    "question": "In what century did missionaries notably establish church schools in South Africa?",
+    "answer": "nineteenth",
+    "document_id": "doc_0041",
+    "relevant_chunk_id": "doc_0041_chunk_000"
+  },
+  {
+    "id": "56e1c2eee3433e1400423134",
+    "question": "Concrete bounding of computation time frequently produces complexity classes contingent upon what?",
+    "answer": "chosen machine model",
+    "document_id": "doc_0042",
+    "relevant_chunk_id": "doc_0042_chunk_000"
+  }
+]

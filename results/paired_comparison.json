@@ -1,0 +1,1869 @@
+{
+  "paired_questions": 200,
+  "normal": {
+    "exact_match": 0.39,
+    "f1": 0.6229440588739067
+  },
+  "filtered": {
+    "exact_match": 0.38,
+    "f1": 0.6111845838971763
+  },
+  "differences": {
+    "exact_match": -0.010000000000000009,
+    "f1": -0.011759474976730355
+  },
+  "f1_per_question": {
+    "improved": 17,
+    "worsened": 12,
+    "equal": 171
+  },
+  "efficiency": {
+    "average_chunks_removed": 0.795,
+    "average_context_reduction": 0.13548820808936457,
+    "normal_average_total_time": 0.8884674715041183,
+    "filtered_average_total_time": 0.7948133355058963,
+    "latency_difference": -0.09365413599822203
+  },
+  "gold_chunk": {
+    "survived": 198,
+    "lost": 2,
+    "survival_rate": 0.99,
+    "failures": [
+      {
+        "question_id": "5710f114a58dae1900cd6b64",
+        "reference_answer": "the doctrine of transubstantiation",
+        "normal_answer": "The Pope and the doctrine of transubstantiation.",
+        "filtered_answer": "Insufficient information.",
+        "normal_f1": 0.7499999999999999,
+        "filtered_f1": 0.0,
+        "f1_difference": -0.7499999999999999,
+        "relevant_chunk_id": "doc_0018_chunk_001",
+        "selected_chunks": [
+          "doc_0018_chunk_000",
+          "doc_0028_chunk_001",
+          "doc_0028_chunk_002"
+        ]
+      },
+      {
+        "question_id": "57297991af94a219006aa4ba",
+        "reference_answer": "transplastomic",
+        "normal_answer": "biologically contained",
+        "filtered_answer": "genetically modified plants",
+        "normal_f1": 0.0,
+        "filtered_f1": 0.0,
+        "f1_difference": 0.0,
+        "relevant_chunk_id": "doc_0023_chunk_001",
+        "selected_chunks": [
+          "doc_0023_chunk_000",
+          "doc_0004_chunk_001",
+          "doc_0025_chunk_000"
+        ]
+      }
+    ]
+  },
+  "correlation": {
+    "context_reduction_vs_f1_change": 0.11726523412461864
+  },
+  "paired_results": [
+    {
+      "question_id": "56de49564396321400ee277a",
+      "reference_answer": "Africa",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e12005cd28a01900c67617",
+      "reference_answer": "overweight people",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.4056122448979592,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "56e12005cd28a01900c67618",
+      "reference_answer": "secretary",
+      "normal_f1": 0.25,
+      "filtered_f1": 0.25,
+      "f1_difference": 0.0,
+      "context_reduction": 0.24309133489461354,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "56e12005cd28a01900c67619",
+      "reference_answer": "her weight",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e12005cd28a01900c6761a",
+      "reference_answer": "go home and change",
+      "normal_f1": 0.5714285714285715,
+      "filtered_f1": 0.5714285714285715,
+      "f1_difference": 0.0,
+      "context_reduction": 0.37637521713954836,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "56e1c2eee3433e1400423134",
+      "reference_answer": "chosen machine model",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.16133393420459663,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "56e1c4fce3433e140042314e",
+      "reference_answer": "BPP, ZPP and RP",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e1c4fce3433e140042314f",
+      "reference_answer": "Boolean",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e1c4fce3433e1400423150",
+      "reference_answer": "quantum",
+      "normal_f1": 0.5,
+      "filtered_f1": 0.5,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e1c4fce3433e1400423151",
+      "reference_answer": "#P",
+      "normal_f1": 1.0,
+      "filtered_f1": 0.16666666666666669,
+      "f1_difference": -0.8333333333333333,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e1c4fce3433e1400423152",
+      "reference_answer": "Interactive",
+      "normal_f1": 0.5,
+      "filtered_f1": 0.5,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb3",
+      "reference_answer": "one of the most common",
+      "normal_f1": 0.21052631578947367,
+      "filtered_f1": 0.21052631578947367,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb4",
+      "reference_answer": "Most Western countries",
+      "normal_f1": 0.4615384615384615,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.20512820512820512,
+      "context_reduction": 0.8079497907949791,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb5",
+      "reference_answer": "United States",
+      "normal_f1": 1.0,
+      "filtered_f1": 0.0,
+      "f1_difference": -1.0,
+      "context_reduction": 0.5920726672171759,
+      "chunks_removed": 3
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb6",
+      "reference_answer": "Supreme Court",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56e7586d37bdd419002c3eb7",
+      "reference_answer": "physical pain",
+      "normal_f1": 0.5714285714285715,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.4285714285714285,
+      "context_reduction": 0.6656955571740714,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f5",
+      "reference_answer": "1522",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f6",
+      "reference_answer": "1534",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f7",
+      "reference_answer": "the translation",
+      "normal_f1": 0.09523809523809523,
+      "filtered_f1": 0.09523809523809523,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f8",
+      "reference_answer": "alone",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.060590886329494276,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "56f86b44a6d7ea1400e175f9",
+      "reference_answer": "Faith alone",
+      "normal_f1": 0.4444444444444445,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.22222222222222215,
+      "context_reduction": 0.22942036044812475,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5705fd8475f01819005e7840",
+      "reference_answer": "varied",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5705fd8475f01819005e7841",
+      "reference_answer": "Pacific Ocean",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5705fd8475f01819005e7842",
+      "reference_answer": "topographic",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.03864278982092362,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5705fd8475f01819005e7843",
+      "reference_answer": "Peninsular",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5705fd8475f01819005e7844",
+      "reference_answer": "valleys",
+      "normal_f1": 0.14285714285714288,
+      "filtered_f1": 0.14285714285714288,
+      "f1_difference": 0.0,
+      "context_reduction": 0.11777535441657583,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "570d44abb3d812140066d5fd",
+      "reference_answer": "1,548",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "570d44abb3d812140066d5fe",
+      "reference_answer": "489",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "570d44abb3d812140066d5ff",
+      "reference_answer": "540,800",
+      "normal_f1": 0.19999999999999998,
+      "filtered_f1": 0.19999999999999998,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "570d44abb3d812140066d600",
+      "reference_answer": "63,519",
+      "normal_f1": 0.2857142857142857,
+      "filtered_f1": 0.2857142857142857,
+      "f1_difference": 0.0,
+      "context_reduction": 0.3535353535353535,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "570d44abb3d812140066d601",
+      "reference_answer": "61",
+      "normal_f1": 0.4,
+      "filtered_f1": 0.4,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57106185b654c5140001f8db",
+      "reference_answer": "derision",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57106185b654c5140001f8dc",
+      "reference_answer": "Besan\u00e7on Hugues",
+      "normal_f1": 1.0,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": -0.33333333333333337,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57106185b654c5140001f8dd",
+      "reference_answer": "Geneva",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57106185b654c5140001f8de",
+      "reference_answer": "Amboise plot",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57106185b654c5140001f8df",
+      "reference_answer": "1560",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.36476426799007444,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b60",
+      "reference_answer": "Foreign Protestants Naturalization Act",
+      "normal_f1": 0.5,
+      "filtered_f1": 0.7272727272727273,
+      "f1_difference": 0.2272727272727273,
+      "context_reduction": 0.07982261640798227,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b61",
+      "reference_answer": "1708",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.23764600179694517,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b62",
+      "reference_answer": "50,000",
+      "normal_f1": 0.1111111111111111,
+      "filtered_f1": 0.1111111111111111,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b63",
+      "reference_answer": "Andrew Lortie",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5710f114a58dae1900cd6b64",
+      "reference_answer": "the doctrine of transubstantiation",
+      "normal_f1": 0.7499999999999999,
+      "filtered_f1": 0.0,
+      "f1_difference": -0.7499999999999999,
+      "context_reduction": 0.23122824465440084,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c4",
+      "reference_answer": "monatomic",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.11842105263157898,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c5",
+      "reference_answer": "simplest",
+      "normal_f1": 0.1111111111111111,
+      "filtered_f1": 0.1111111111111111,
+      "f1_difference": 0.0,
+      "context_reduction": 0.16243194192377497,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c6",
+      "reference_answer": "HO",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.43621575342465757,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c7",
+      "reference_answer": "hydrogen",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "571c7d55dd7acb1400e4c0c8",
+      "reference_answer": "Avogadro's law",
+      "normal_f1": 0.4,
+      "filtered_f1": 0.4,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2d7",
+      "reference_answer": "late 1970s",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2d8",
+      "reference_answer": "second and third run movies, along with classic films",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.08863858961802151,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2d9",
+      "reference_answer": "1978",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2da",
+      "reference_answer": "Fresno",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.3027129938124703,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5725e1c4271a42140099d2db",
+      "reference_answer": "Evita and The Wiz",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.7200825309491059,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "57265ceddd62a815002e82b8",
+      "reference_answer": "1979",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.2596956308296514,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57265ceddd62a815002e82b9",
+      "reference_answer": "1981",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.4255429162357808,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "57265ceddd62a815002e82ba",
+      "reference_answer": "Mustang I",
+      "normal_f1": 0.2857142857142857,
+      "filtered_f1": 0.25,
+      "f1_difference": -0.0357142857142857,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726710b708984140094c61d",
+      "reference_answer": "The V&A is located in the Brompton district of the Royal Borough of Kensington and Chelsea",
+      "normal_f1": 0.6486486486486487,
+      "filtered_f1": 0.6486486486486487,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726710b708984140094c61e",
+      "reference_answer": "a permanent collection of over 4.5 million objects.",
+      "normal_f1": 0.2,
+      "filtered_f1": 0.6,
+      "f1_difference": 0.39999999999999997,
+      "context_reduction": 0.5759036144578313,
+      "chunks_removed": 3
+    },
+    {
+      "question_id": "5726710b708984140094c61f",
+      "reference_answer": "It was founded in 1852",
+      "normal_f1": 0.33333333333333337,
+      "filtered_f1": 0.33333333333333337,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726710b708984140094c620",
+      "reference_answer": "named after Queen Victoria and Prince Albert",
+      "normal_f1": 0.8333333333333333,
+      "filtered_f1": 0.8333333333333333,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572680ac708984140094c83d",
+      "reference_answer": "Royal Borough of Kensington and Chelsea",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572680ac708984140094c83e",
+      "reference_answer": "1852",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572680ac708984140094c83f",
+      "reference_answer": "Queen Victoria and Prince Albert",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572680ac708984140094c840",
+      "reference_answer": "Department for Culture, Media and Sport",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572680ac708984140094c841",
+      "reference_answer": "2001",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572683075951b619008f7513",
+      "reference_answer": "via pores in the epidermis",
+      "normal_f1": 0.6153846153846153,
+      "filtered_f1": 0.6153846153846153,
+      "f1_difference": 0.0,
+      "context_reduction": 0.1604768454837231,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572683075951b619008f7514",
+      "reference_answer": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.7826086956521738,
+      "f1_difference": 0.7826086956521738,
+      "context_reduction": 0.7766949152542373,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "572683075951b619008f7515",
+      "reference_answer": "Mnemiopsis",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.6278285989407799,
+      "chunks_removed": 3
+    },
+    {
+      "question_id": "572683075951b619008f7516",
+      "reference_answer": "in the parts of the internal canal network under the comb rows",
+      "normal_f1": 0.8571428571428571,
+      "filtered_f1": 0.8571428571428571,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572683075951b619008f7517",
+      "reference_answer": "external",
+      "normal_f1": 1.0,
+      "filtered_f1": 0.0,
+      "f1_difference": -1.0,
+      "context_reduction": 0.2564226854095977,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e24c",
+      "reference_answer": "Newcastle Mela",
+      "normal_f1": 1.0,
+      "filtered_f1": 0.14285714285714288,
+      "f1_difference": -0.8571428571428571,
+      "context_reduction": 0.18265682656826565,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e24d",
+      "reference_answer": "NewcastleGateshead",
+      "normal_f1": 1.0,
+      "filtered_f1": 0.25,
+      "f1_difference": -0.75,
+      "context_reduction": 0.18265682656826565,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e24e",
+      "reference_answer": "Sage Gateshead Music and Arts Centre",
+      "normal_f1": 0.4444444444444445,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.5555555555555556,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e24f",
+      "reference_answer": "Design Event festival",
+      "normal_f1": 0.5,
+      "filtered_f1": 0.4,
+      "f1_difference": -0.09999999999999998,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572683e6f1498d1400e8e250",
+      "reference_answer": "East Asian",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e29e",
+      "reference_answer": "Life Savers candy",
+      "normal_f1": 0.8,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.19999999999999996,
+      "context_reduction": 0.4102365257851881,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e29f",
+      "reference_answer": "October 12, 1943",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e2a0",
+      "reference_answer": "George B. Storer",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e2a1",
+      "reference_answer": "president and CEO",
+      "normal_f1": 0.25,
+      "filtered_f1": 0.3157894736842105,
+      "f1_difference": 0.06578947368421051,
+      "context_reduction": 0.4102365257851881,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "572685d1f1498d1400e8e2a2",
+      "reference_answer": "June 30, 1951",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.3317223198594025,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e2",
+      "reference_answer": "On the Night of the Fire",
+      "normal_f1": 0.888888888888889,
+      "filtered_f1": 0.888888888888889,
+      "f1_difference": 0.0,
+      "context_reduction": 0.08918569582076696,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e3",
+      "reference_answer": "Get Carter",
+      "normal_f1": 0.2857142857142857,
+      "filtered_f1": 0.2857142857142857,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e4",
+      "reference_answer": "gangster",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e5",
+      "reference_answer": "Mike Figgis",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.8960973137354282,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "57268731f1498d1400e8e2e6",
+      "reference_answer": "Sting",
+      "normal_f1": 1.0,
+      "filtered_f1": 0.0,
+      "f1_difference": -1.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57269cc3dd62a815002e8b12",
+      "reference_answer": "Directives",
+      "normal_f1": 0.16666666666666669,
+      "filtered_f1": 0.16666666666666669,
+      "f1_difference": 0.0,
+      "context_reduction": 0.04975369458128076,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57269cc3dd62a815002e8b13",
+      "reference_answer": "4 weeks",
+      "normal_f1": 0.3076923076923077,
+      "filtered_f1": 0.3076923076923077,
+      "f1_difference": 0.0,
+      "context_reduction": 0.1710251046025104,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "57269cc3dd62a815002e8b14",
+      "reference_answer": "28 days",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.33333333333333337,
+      "context_reduction": 0.4988134788799241,
+      "chunks_removed": 3
+    },
+    {
+      "question_id": "57269cc3dd62a815002e8b15",
+      "reference_answer": "early 1990s",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726c3b3708984140094d0cf",
+      "reference_answer": "fragmentation",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726c3b3708984140094d0d0",
+      "reference_answer": "Otrar",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726c3b3708984140094d0d1",
+      "reference_answer": "silver",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.05637513171759745,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5726c3b3708984140094d0d2",
+      "reference_answer": "fled",
+      "normal_f1": 0.33333333333333337,
+      "filtered_f1": 0.33333333333333337,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726c3b3708984140094d0d3",
+      "reference_answer": "Subutai and Jebe",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726e4eedd62a815002e9438",
+      "reference_answer": "2002",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726e4eedd62a815002e9439",
+      "reference_answer": "Vivienne Westwood",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.46971109040074555,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5726e4eedd62a815002e943a",
+      "reference_answer": "178",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726e4eedd62a815002e943b",
+      "reference_answer": "Costiff",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726e4eedd62a815002e943c",
+      "reference_answer": "modern",
+      "normal_f1": 0.4,
+      "filtered_f1": 0.15384615384615385,
+      "f1_difference": -0.24615384615384617,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726e671dd62a815002e9464",
+      "reference_answer": "General Hospital",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726e671dd62a815002e9465",
+      "reference_answer": "1975",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.7684534270650264,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "5726e671dd62a815002e9466",
+      "reference_answer": "The Edge of Night",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726e671dd62a815002e9467",
+      "reference_answer": "The View and The Chew",
+      "normal_f1": 0.5454545454545454,
+      "filtered_f1": 0.5454545454545454,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726e671dd62a815002e9468",
+      "reference_answer": "1963",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.7956572314850717,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "5726ea985951b619008f8261",
+      "reference_answer": "medication regimen review",
+      "normal_f1": 0.2857142857142857,
+      "filtered_f1": 0.2857142857142857,
+      "f1_difference": 0.0,
+      "context_reduction": 0.10752688172043012,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5726ea985951b619008f8262",
+      "reference_answer": "nursing homes",
+      "normal_f1": 0.19999999999999998,
+      "filtered_f1": 0.2857142857142857,
+      "f1_difference": 0.08571428571428572,
+      "context_reduction": 0.0743759551706572,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5726ea985951b619008f8263",
+      "reference_answer": "Omnicare, Kindred Healthcare and PharMerica",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.6285148514851485,
+      "chunks_removed": 3
+    },
+    {
+      "question_id": "5726ea985951b619008f8264",
+      "reference_answer": "because many elderly people are now taking numerous medications but continue to live outside of institutional settings",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726ea985951b619008f8265",
+      "reference_answer": "employ consultant pharmacists and/or provide consulting services",
+      "normal_f1": 0.8235294117647058,
+      "filtered_f1": 0.8235294117647058,
+      "f1_difference": 0.0,
+      "context_reduction": 0.8049594659036718,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "5726f90b708984140094d75d",
+      "reference_answer": "Eadweard Muybridge",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726f90b708984140094d75e",
+      "reference_answer": "1887",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726f90b708984140094d75f",
+      "reference_answer": "781",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726f90b708984140094d760",
+      "reference_answer": "animals and humans performimg various actions",
+      "normal_f1": 0.39999999999999997,
+      "filtered_f1": 0.39999999999999997,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5726f90b708984140094d761",
+      "reference_answer": "James Lafayette",
+      "normal_f1": 0.125,
+      "filtered_f1": 0.125,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57273d06f1498d1400e8f4f6",
+      "reference_answer": "rivers",
+      "normal_f1": 0.5,
+      "filtered_f1": 0.5,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57273d06f1498d1400e8f4f7",
+      "reference_answer": "Muslim and Chinese",
+      "normal_f1": 0.1875,
+      "filtered_f1": 0.1875,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57273d06f1498d1400e8f4f8",
+      "reference_answer": "feigned retreat",
+      "normal_f1": 0.125,
+      "filtered_f1": 0.14285714285714288,
+      "f1_difference": 0.017857142857142877,
+      "context_reduction": 0.27680000000000005,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57273d06f1498d1400e8f4f9",
+      "reference_answer": "driving them in front of the army",
+      "normal_f1": 0.5714285714285715,
+      "filtered_f1": 0.5714285714285715,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5727515af1498d1400e8f63a",
+      "reference_answer": "Ikh Zasag",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5727515af1498d1400e8f63b",
+      "reference_answer": "corruption and bribery",
+      "normal_f1": 0.35294117647058826,
+      "filtered_f1": 0.35294117647058826,
+      "f1_difference": 0.0,
+      "context_reduction": 0.04839439167797377,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5727515af1498d1400e8f63c",
+      "reference_answer": "Tsakhiagiin Elbegdorj",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5727515af1498d1400e8f63d",
+      "reference_answer": "traditional Mongolian script",
+      "normal_f1": 0.3157894736842105,
+      "filtered_f1": 0.3157894736842105,
+      "f1_difference": 0.0,
+      "context_reduction": 0.056079664570230614,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5727515f708984140094dc11",
+      "reference_answer": "South African Schools Act",
+      "normal_f1": 0.2666666666666667,
+      "filtered_f1": 0.2666666666666667,
+      "f1_difference": 0.0,
+      "context_reduction": 0.07969432314410485,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5727515f708984140094dc12",
+      "reference_answer": "1996",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.09844908968307486,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5727515f708984140094dc13",
+      "reference_answer": "independent",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5727515f708984140094dc14",
+      "reference_answer": "traditional private",
+      "normal_f1": 0.3636363636363636,
+      "filtered_f1": 0.3636363636363636,
+      "f1_difference": 0.0,
+      "context_reduction": 0.3441043083900227,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5727515f708984140094dc15",
+      "reference_answer": "nineteenth",
+      "normal_f1": 0.5,
+      "filtered_f1": 0.5,
+      "f1_difference": 0.0,
+      "context_reduction": 0.04559819413092547,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69a",
+      "reference_answer": "tenggis",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.056079664570230614,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69b",
+      "reference_answer": "Lake Baikal",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69c",
+      "reference_answer": "\"right\", \"just\", or \"true\"",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.7738197424892703,
+      "chunks_removed": 4
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69d",
+      "reference_answer": "Zh\u00e8ng",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5727580bf1498d1400e8f69e",
+      "reference_answer": "Chinggis",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b42",
+      "reference_answer": "regeneration",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b43",
+      "reference_answer": "the Doctor's third on-screen regeneration",
+      "normal_f1": 0.25,
+      "filtered_f1": 0.25,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b44",
+      "reference_answer": "William Hartnell's poor health",
+      "normal_f1": 0.3076923076923077,
+      "filtered_f1": 0.3076923076923077,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b45",
+      "reference_answer": "renewal",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57280757ff5b5019007d9b46",
+      "reference_answer": "change of appearance",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e1e",
+      "reference_answer": "Six",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.4893617021276596,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e1f",
+      "reference_answer": "the first two series",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e20",
+      "reference_answer": "music from the 2008\u20132010 specials",
+      "normal_f1": 0.4210526315789474,
+      "filtered_f1": 0.4210526315789474,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e21",
+      "reference_answer": "A Christmas Carol",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57281cb22ca10214002d9e22",
+      "reference_answer": "8 November 2010",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e0",
+      "reference_answer": "Philip Glass",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.06896551724137934,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e1",
+      "reference_answer": "Alex Seropian",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.05286738351254483,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e2",
+      "reference_answer": "Halo",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.23050108932461877,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e3",
+      "reference_answer": "Ed Asner",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.08021753908905505,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57286d7d4b864d19001649e4",
+      "reference_answer": "Mike Nichols",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.16541353383458646,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e4",
+      "reference_answer": "Han Chinese, Khitans, Jurchens, Mongols, and Tibetan Buddhists",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e5",
+      "reference_answer": "Tang, Song, as well as Khitan Liao and Jurchen Jin dynasties",
+      "normal_f1": 0.8421052631578948,
+      "filtered_f1": 0.8421052631578948,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e6",
+      "reference_answer": "Liu Bingzhong and Yao Shu",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e7",
+      "reference_answer": "tripartite",
+      "normal_f1": 0.13333333333333333,
+      "filtered_f1": 0.13333333333333333,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57287d4a2ca10214002da3e8",
+      "reference_answer": "civil, military, and censorial offices",
+      "normal_f1": 0.22222222222222218,
+      "filtered_f1": 0.18181818181818182,
+      "f1_difference": -0.04040404040404036,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572914441d04691400779025",
+      "reference_answer": "December 2014",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.5396687009590235,
+      "chunks_removed": 3
+    },
+    {
+      "question_id": "572914441d04691400779026",
+      "reference_answer": "to guard against armed groups",
+      "normal_f1": 0.5882352941176471,
+      "filtered_f1": 0.5882352941176471,
+      "f1_difference": 0.0,
+      "context_reduction": 0.23060156931124676,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572914441d04691400779027",
+      "reference_answer": "Opposition politicians, human rights groups, and nine Western countries",
+      "normal_f1": 0.5806451612903226,
+      "filtered_f1": 0.6206896551724138,
+      "f1_difference": 0.04004449388209119,
+      "context_reduction": 0.20054570259208726,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572914441d04691400779028",
+      "reference_answer": "it infringed on democratic freedoms",
+      "normal_f1": 0.2380952380952381,
+      "filtered_f1": 0.2380952380952381,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572914441d04691400779029",
+      "reference_answer": "of the United States, Britain, Germany and France",
+      "normal_f1": 0.56,
+      "filtered_f1": 0.56,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572961f61d04691400779359",
+      "reference_answer": "double",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.21952259164535382,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572961f61d0469140077935a",
+      "reference_answer": "additional membranes outside of the original two",
+      "normal_f1": 0.25,
+      "filtered_f1": 0.25,
+      "f1_difference": 0.0,
+      "context_reduction": 0.21952259164535382,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572961f61d0469140077935b",
+      "reference_answer": "a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga but failed to digest it",
+      "normal_f1": 0.6428571428571429,
+      "filtered_f1": 0.6428571428571429,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572961f61d0469140077935c",
+      "reference_answer": "sometimes the eaten alga's cell membrane, and the phagosomal vacuole from the host's cell membrane",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.21952259164535382,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572961f61d0469140077935d",
+      "reference_answer": "its chloroplast, and sometimes its cell membrane and nucleus",
+      "normal_f1": 0.38297872340425526,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.6170212765957448,
+      "context_reduction": 0.33034953111679455,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "572975073f37b31900478415",
+      "reference_answer": "generate ATP energy",
+      "normal_f1": 0.3,
+      "filtered_f1": 0.3,
+      "f1_difference": 0.0,
+      "context_reduction": 0.324381926683717,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "572975073f37b31900478416",
+      "reference_answer": "into the thylakoid space",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.1048593350383632,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572975073f37b31900478417",
+      "reference_answer": "up to a thousand times",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572975073f37b31900478418",
+      "reference_answer": "phosphorylate adenosine diphosphate",
+      "normal_f1": 0.3,
+      "filtered_f1": 0.3,
+      "f1_difference": 0.0,
+      "context_reduction": 0.5558397271952259,
+      "chunks_removed": 3
+    },
+    {
+      "question_id": "572975073f37b31900478419",
+      "reference_answer": "adenosine triphosphate",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.5558397271952259,
+      "chunks_removed": 3
+    },
+    {
+      "question_id": "57297547af94a219006aa45b",
+      "reference_answer": "1",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.46197183098591554,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "57297547af94a219006aa45c",
+      "reference_answer": "Christian Goldbach",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57297547af94a219006aa45d",
+      "reference_answer": "Leonhard Euler",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57297547af94a219006aa45e",
+      "reference_answer": "10,006,721",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57297547af94a219006aa45f",
+      "reference_answer": "its own special category as a \"unit\"",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.20504731861198733,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57297991af94a219006aa4b7",
+      "reference_answer": "transgenes in these plastids cannot be disseminated by pollen",
+      "normal_f1": 0.33333333333333337,
+      "filtered_f1": 0.33333333333333337,
+      "f1_difference": 0.0,
+      "context_reduction": 0.1048593350383632,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57297991af94a219006aa4b8",
+      "reference_answer": "environmental risks",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.4279935275080906,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "57297991af94a219006aa4b9",
+      "reference_answer": "3 in 1,000,000",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57297991af94a219006aa4ba",
+      "reference_answer": "transplastomic",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.44501278772378516,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5729ffda1d046914007796af",
+      "reference_answer": "vaccination",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.3703537841468876,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5729ffda1d046914007796b0",
+      "reference_answer": "immunization",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5729ffda1d046914007796b1",
+      "reference_answer": "an antigen from a pathogen",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5729ffda1d046914007796b2",
+      "reference_answer": "natural specificity of the immune system",
+      "normal_f1": 0.5454545454545454,
+      "filtered_f1": 0.5454545454545454,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc80",
+      "reference_answer": "The Presiding Officer",
+      "normal_f1": 0.2857142857142857,
+      "filtered_f1": 0.2857142857142857,
+      "f1_difference": 0.0,
+      "context_reduction": 0.06312499999999999,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc81",
+      "reference_answer": "amount of time for which they are allowed to speak",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.04975369458128076,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc82",
+      "reference_answer": "different viewpoints",
+      "normal_f1": 0.19999999999999998,
+      "filtered_f1": 0.21052631578947367,
+      "f1_difference": 0.01052631578947369,
+      "context_reduction": 0.04881656804733725,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc83",
+      "reference_answer": "ministers or party leaders",
+      "normal_f1": 0.4,
+      "filtered_f1": 0.7272727272727273,
+      "f1_difference": 0.32727272727272727,
+      "context_reduction": 0.2870370370370371,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "572fc41f947a6a140053cc84",
+      "reference_answer": "Gaelic",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689db",
+      "reference_answer": "Wahhabi/Salafi jihadist extremist militant",
+      "normal_f1": 0.888888888888889,
+      "filtered_f1": 0.888888888888889,
+      "f1_difference": 0.0,
+      "context_reduction": 0.048981571290009684,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689dc",
+      "reference_answer": "Sunni Arabs",
+      "normal_f1": 0.25,
+      "filtered_f1": 0.25,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689dd",
+      "reference_answer": "a caliphate",
+      "normal_f1": 0.16666666666666669,
+      "filtered_f1": 0.16666666666666669,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689de",
+      "reference_answer": "ten million",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57302bd0b2c2fd14005689df",
+      "reference_answer": "recognition",
+      "normal_f1": 0.6666666666666666,
+      "filtered_f1": 0.6666666666666666,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57309bfb8ab72b1400f9c5e6",
+      "reference_answer": "British",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57309bfb8ab72b1400f9c5e7",
+      "reference_answer": "in the late 1870s",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57309bfb8ab72b1400f9c5e8",
+      "reference_answer": "philanthropy",
+      "normal_f1": 0.19999999999999998,
+      "filtered_f1": 0.19999999999999998,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "57309bfb8ab72b1400f9c5e9",
+      "reference_answer": "to constantly expand investment",
+      "normal_f1": 0.25806451612903225,
+      "filtered_f1": 0.33333333333333337,
+      "f1_difference": 0.07526881720430112,
+      "context_reduction": 0.40030268634127886,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5733ea04d058e614000b6594",
+      "reference_answer": "Paul Marin de la Malgue",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "5733ea04d058e614000b6595",
+      "reference_answer": "Fort Presque Isle (near present-day Erie, Pennsylvania",
+      "normal_f1": 0.7368421052631579,
+      "filtered_f1": 0.7368421052631579,
+      "f1_difference": 0.0,
+      "context_reduction": 0.4001814882032668,
+      "chunks_removed": 2
+    },
+    {
+      "question_id": "5733ea04d058e614000b6596",
+      "reference_answer": "Fort Le Boeuf (present-day Waterford, Pennsylvania",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.16016333938294014,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5733ea04d058e614000b6597",
+      "reference_answer": "protect the King's land in the Ohio Valley from the British",
+      "normal_f1": 0.8,
+      "filtered_f1": 0.8,
+      "f1_difference": 0.0,
+      "context_reduction": 0.16016333938294014,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "5733ea04d058e614000b6598",
+      "reference_answer": "Tanaghrisson",
+      "normal_f1": 1.0,
+      "filtered_f1": 1.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "573755afc3c5551400e51eb3",
+      "reference_answer": "center of mass",
+      "normal_f1": 0.35294117647058826,
+      "filtered_f1": 0.35294117647058826,
+      "f1_difference": 0.0,
+      "context_reduction": 0.18220338983050843,
+      "chunks_removed": 1
+    },
+    {
+      "question_id": "573755afc3c5551400e51eb4",
+      "reference_answer": "closed",
+      "normal_f1": 0.4,
+      "filtered_f1": 0.4,
+      "f1_difference": 0.0,
+      "context_reduction": 0.0,
+      "chunks_removed": 0
+    },
+    {
+      "question_id": "573755afc3c5551400e51eb5",
+      "reference_answer": "mass of the system",
+      "normal_f1": 0.0,
+      "filtered_f1": 0.0,
+      "f1_difference": 0.0,
+      "context_reduction": 0.11009174311926606,
+      "chunks_removed": 1
+    }
+  ]
+}

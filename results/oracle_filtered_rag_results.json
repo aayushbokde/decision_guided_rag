@@ -1,0 +1,1667 @@
+[
+  {
+    "answer": "The Shah's army was split by diverse internecine feuds and by the Shah's decision to divide his army into small groups concentrated in various cities.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0000_chunk_000",
+        "similarity": 0.7886333383440514
+      },
+      {
+        "chunk_id": "doc_0015_chunk_000",
+        "similarity": 0.7498395965718025
+      },
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.6810955403866003
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.6309209828418549
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.6013793316920532
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0000_chunk_000",
+        "similarity": 0.7886333383440514,
+        "keep": true,
+        "confidence": 0.5333333333333333,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0015_chunk_000",
+        "similarity": 0.7498395965718025,
+        "keep": true,
+        "confidence": 0.3333333333333333,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.6810955403866003,
+        "keep": true,
+        "confidence": 0.26666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.6309209828418549,
+        "keep": true,
+        "confidence": 0.3333333333333333,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.6013793316920532,
+        "keep": true,
+        "confidence": 0.26666666666666666,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0000_chunk_000",
+      "doc_0015_chunk_000",
+      "doc_0000_chunk_001",
+      "doc_0003_chunk_000",
+      "doc_0003_chunk_003"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 2211,
+    "context_characters_after": 2211,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 1.3404520000331104,
+    "retrieval_time": 0.005042799981310964,
+    "decision_time": 0.00021660001948475838,
+    "llm_time": 3.88279279996641,
+    "total_time": 5.228513100068085,
+    "question_id": "5726c3b3708984140094d0cf",
+    "reference_answer": "fragmentation",
+    "relevant_chunk_id": "doc_0000_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Insufficient information.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.7869100592849269
+      },
+      {
+        "chunk_id": "doc_0000_chunk_000",
+        "similarity": 0.7130295763862433
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.6703687040828891
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.6689987098954056
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.6003561078338812
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.7869100592849269,
+        "keep": true,
+        "confidence": 0.5,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0000_chunk_000",
+        "similarity": 0.7130295763862433,
+        "keep": true,
+        "confidence": 0.5,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.6703687040828891,
+        "keep": true,
+        "confidence": 0.4375,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.6689987098954056,
+        "keep": true,
+        "confidence": 0.4375,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.6003561078338812,
+        "keep": true,
+        "confidence": 0.4375,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0000_chunk_001",
+      "doc_0000_chunk_000",
+      "doc_0003_chunk_000",
+      "doc_0003_chunk_001",
+      "doc_0003_chunk_002"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 2633,
+    "context_characters_after": 2633,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 0.015871700015850365,
+    "retrieval_time": 0.005023299949243665,
+    "decision_time": 0.00020150002092123032,
+    "llm_time": 0.389622800052166,
+    "total_time": 0.41073230002075434,
+    "question_id": "5726c3b3708984140094d0d0",
+    "reference_answer": "Otrar",
+    "relevant_chunk_id": "doc_0000_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Molten silver",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.6156502961130893
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.5933789217994082
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.5264934398043772
+      },
+      {
+        "chunk_id": "doc_0015_chunk_000",
+        "similarity": 0.5149551989596322
+      },
+      {
+        "chunk_id": "doc_0017_chunk_001",
+        "similarity": 0.509315722633504
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.6156502961130893,
+        "keep": true,
+        "confidence": 0.125,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.5933789217994082,
+        "keep": true,
+        "confidence": 0.25,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.5264934398043772,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0015_chunk_000",
+        "similarity": 0.5149551989596322,
+        "keep": true,
+        "confidence": 0.25,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0017_chunk_001",
+        "similarity": 0.509315722633504,
+        "keep": true,
+        "confidence": 0.25,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0000_chunk_001",
+      "doc_0003_chunk_001",
+      "doc_0015_chunk_000",
+      "doc_0017_chunk_001"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 4,
+    "context_characters_before": 1898,
+    "context_characters_after": 1791,
+    "context_reduction": 0.05637513171759745,
+    "fallback_used": false,
+    "embedding_time": 0.029985200031660497,
+    "retrieval_time": 0.005033800029195845,
+    "decision_time": 0.00013950001448392868,
+    "llm_time": 0.29170820000581443,
+    "total_time": 0.3268751000287011,
+    "question_id": "5726c3b3708984140094d0d1",
+    "reference_answer": "silver",
+    "relevant_chunk_id": "doc_0000_chunk_001",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "He fled rather than surrender.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.8125252243429111
+      },
+      {
+        "chunk_id": "doc_0000_chunk_000",
+        "similarity": 0.7891340264532108
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.6463382913709953
+      },
+      {
+        "chunk_id": "doc_0015_chunk_000",
+        "similarity": 0.6402840401329213
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.6226865576149826
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.8125252243429111,
+        "keep": true,
+        "confidence": 0.42857142857142855,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0000_chunk_000",
+        "similarity": 0.7891340264532108,
+        "keep": true,
+        "confidence": 0.5,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.6463382913709953,
+        "keep": true,
+        "confidence": 0.2857142857142857,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0015_chunk_000",
+        "similarity": 0.6402840401329213,
+        "keep": true,
+        "confidence": 0.14285714285714285,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.6226865576149826,
+        "keep": true,
+        "confidence": 0.2857142857142857,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0000_chunk_001",
+      "doc_0000_chunk_000",
+      "doc_0003_chunk_000",
+      "doc_0015_chunk_000",
+      "doc_0003_chunk_001"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 2633,
+    "context_characters_after": 2633,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 0.014391599921509624,
+    "retrieval_time": 0.004927800036966801,
+    "decision_time": 0.00017539993859827518,
+    "llm_time": 0.42327929998282343,
+    "total_time": 0.44278389995452017,
+    "question_id": "5726c3b3708984140094d0d2",
+    "reference_answer": "fled",
+    "relevant_chunk_id": "doc_0000_chunk_001",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Subutai and Jebe",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.7841741787491574
+      },
+      {
+        "chunk_id": "doc_0000_chunk_000",
+        "similarity": 0.7166290209418947
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.7040360239925191
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.7039189674802276
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.6444658979434187
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.7841741787491574,
+        "keep": true,
+        "confidence": 0.45454545454545453,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0000_chunk_000",
+        "similarity": 0.7166290209418947,
+        "keep": true,
+        "confidence": 0.45454545454545453,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.7040360239925191,
+        "keep": true,
+        "confidence": 0.36363636363636365,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.7039189674802276,
+        "keep": true,
+        "confidence": 0.36363636363636365,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.6444658979434187,
+        "keep": true,
+        "confidence": 0.5454545454545454,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0000_chunk_001",
+      "doc_0000_chunk_000",
+      "doc_0003_chunk_001",
+      "doc_0003_chunk_000",
+      "doc_0003_chunk_002"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 2633,
+    "context_characters_after": 2633,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 0.013108399929478765,
+    "retrieval_time": 0.004933800082653761,
+    "decision_time": 0.00017509993631392717,
+    "llm_time": 0.4110493999905884,
+    "total_time": 0.4292759000090882,
+    "question_id": "5726c3b3708984140094d0d3",
+    "reference_answer": "Subutai and Jebe",
+    "relevant_chunk_id": "doc_0000_chunk_001",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Directives do not generally give citizens standing to sue other citizens.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0001_chunk_000",
+        "similarity": 0.7349635284582937
+      },
+      {
+        "chunk_id": "doc_0001_chunk_002",
+        "similarity": 0.6624038429350986
+      },
+      {
+        "chunk_id": "doc_0001_chunk_001",
+        "similarity": 0.6400025694915441
+      },
+      {
+        "chunk_id": "doc_0031_chunk_000",
+        "similarity": 0.5661352518233542
+      },
+      {
+        "chunk_id": "doc_0041_chunk_001",
+        "similarity": 0.5464756609180748
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0001_chunk_000",
+        "similarity": 0.7349635284582937,
+        "keep": true,
+        "confidence": 0.7,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0001_chunk_002",
+        "similarity": 0.6624038429350986,
+        "keep": true,
+        "confidence": 0.2,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0001_chunk_001",
+        "similarity": 0.6400025694915441,
+        "keep": true,
+        "confidence": 0.4,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0031_chunk_000",
+        "similarity": 0.5661352518233542,
+        "keep": true,
+        "confidence": 0.1,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0041_chunk_001",
+        "similarity": 0.5464756609180748,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0001_chunk_000",
+      "doc_0001_chunk_002",
+      "doc_0001_chunk_001",
+      "doc_0031_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 4,
+    "context_characters_before": 2030,
+    "context_characters_after": 1929,
+    "context_reduction": 0.04975369458128076,
+    "fallback_used": false,
+    "embedding_time": 0.025956899975426495,
+    "retrieval_time": 0.00491310004144907,
+    "decision_time": 0.0001938999630510807,
+    "llm_time": 0.5184123000362888,
+    "total_time": 0.5494844999630004,
+    "question_id": "57269cc3dd62a815002e8b12",
+    "reference_answer": "Directives",
+    "relevant_chunk_id": "doc_0001_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Every worker has at least 4 weeks paid holidays each year.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0001_chunk_001",
+        "similarity": 0.7577698977083936
+      },
+      {
+        "chunk_id": "doc_0013_chunk_001",
+        "similarity": 0.5160560410917944
+      },
+      {
+        "chunk_id": "doc_0001_chunk_000",
+        "similarity": 0.515943623890269
+      },
+      {
+        "chunk_id": "doc_0013_chunk_000",
+        "similarity": 0.49902862285560456
+      },
+      {
+        "chunk_id": "doc_0007_chunk_001",
+        "similarity": 0.4947189889791805
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0001_chunk_001",
+        "similarity": 0.7577698977083936,
+        "keep": true,
+        "confidence": 0.6875,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0013_chunk_001",
+        "similarity": 0.5160560410917944,
+        "keep": false,
+        "confidence": 0.0625,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0001_chunk_000",
+        "similarity": 0.515943623890269,
+        "keep": true,
+        "confidence": 0.1875,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0013_chunk_000",
+        "similarity": 0.49902862285560456,
+        "keep": true,
+        "confidence": 0.25,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0007_chunk_001",
+        "similarity": 0.4947189889791805,
+        "keep": false,
+        "confidence": 0.0625,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0001_chunk_001",
+      "doc_0001_chunk_000",
+      "doc_0013_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 3,
+    "context_characters_before": 1912,
+    "context_characters_after": 1585,
+    "context_reduction": 0.1710251046025104,
+    "fallback_used": false,
+    "embedding_time": 0.015069799963384867,
+    "retrieval_time": 0.004907299997285008,
+    "decision_time": 0.00015620002523064613,
+    "llm_time": 0.4929587000515312,
+    "total_time": 0.5131018999963999,
+    "question_id": "57269cc3dd62a815002e8b13",
+    "reference_answer": "4 weeks",
+    "relevant_chunk_id": "doc_0001_chunk_001",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "28 days",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0001_chunk_001",
+        "similarity": 0.7163093717225993
+      },
+      {
+        "chunk_id": "doc_0001_chunk_000",
+        "similarity": 0.556457972640363
+      },
+      {
+        "chunk_id": "doc_0029_chunk_001",
+        "similarity": 0.5478719734803884
+      },
+      {
+        "chunk_id": "doc_0007_chunk_001",
+        "similarity": 0.5307995331168845
+      },
+      {
+        "chunk_id": "doc_0007_chunk_000",
+        "similarity": 0.5264914397626654
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0001_chunk_001",
+        "similarity": 0.7163093717225993,
+        "keep": true,
+        "confidence": 0.7,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0001_chunk_000",
+        "similarity": 0.556457972640363,
+        "keep": true,
+        "confidence": 0.3,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0029_chunk_001",
+        "similarity": 0.5478719734803884,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0007_chunk_001",
+        "similarity": 0.5307995331168845,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0007_chunk_000",
+        "similarity": 0.5264914397626654,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0001_chunk_001",
+      "doc_0001_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 2,
+    "context_characters_before": 2107,
+    "context_characters_after": 1056,
+    "context_reduction": 0.4988134788799241,
+    "fallback_used": false,
+    "embedding_time": 0.013603499974124134,
+    "retrieval_time": 0.005029899999499321,
+    "decision_time": 0.0001463000662624836,
+    "llm_time": 0.20270230004098266,
+    "total_time": 0.22148900001775473,
+    "question_id": "57269cc3dd62a815002e8b14",
+    "reference_answer": "28 days",
+    "relevant_chunk_id": "doc_0001_chunk_001",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "In the early 1990s.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0001_chunk_002",
+        "similarity": 0.7905862401538223
+      },
+      {
+        "chunk_id": "doc_0001_chunk_000",
+        "similarity": 0.6628883070232026
+      },
+      {
+        "chunk_id": "doc_0001_chunk_001",
+        "similarity": 0.6489607156024161
+      },
+      {
+        "chunk_id": "doc_0031_chunk_000",
+        "similarity": 0.6031660462484372
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.581516489751528
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0001_chunk_002",
+        "similarity": 0.7905862401538223,
+        "keep": true,
+        "confidence": 0.8235294117647058,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0001_chunk_000",
+        "similarity": 0.6628883070232026,
+        "keep": true,
+        "confidence": 0.35294117647058826,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0001_chunk_001",
+        "similarity": 0.6489607156024161,
+        "keep": true,
+        "confidence": 0.29411764705882354,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0031_chunk_000",
+        "similarity": 0.6031660462484372,
+        "keep": true,
+        "confidence": 0.23529411764705882,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.581516489751528,
+        "keep": true,
+        "confidence": 0.29411764705882354,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0001_chunk_002",
+      "doc_0001_chunk_000",
+      "doc_0001_chunk_001",
+      "doc_0031_chunk_000",
+      "doc_0003_chunk_001"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 2458,
+    "context_characters_after": 2458,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 0.016387299983762205,
+    "retrieval_time": 0.0048090999480336905,
+    "decision_time": 0.00016410008538514376,
+    "llm_time": 0.4913240000605583,
+    "total_time": 0.5126940000336617,
+    "question_id": "57269cc3dd62a815002e8b15",
+    "reference_answer": "early 1990s",
+    "relevant_chunk_id": "doc_0001_chunk_002",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "By 1979.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0002_chunk_000",
+        "similarity": 0.8570464962970625
+      },
+      {
+        "chunk_id": "doc_0002_chunk_001",
+        "similarity": 0.7049064089233829
+      },
+      {
+        "chunk_id": "doc_0022_chunk_000",
+        "similarity": 0.5179566325310706
+      },
+      {
+        "chunk_id": "doc_0011_chunk_000",
+        "similarity": 0.5125359524952846
+      },
+      {
+        "chunk_id": "doc_0018_chunk_000",
+        "similarity": 0.5074998771698499
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0002_chunk_000",
+        "similarity": 0.8570464962970625,
+        "keep": true,
+        "confidence": 0.6666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0002_chunk_001",
+        "similarity": 0.7049064089233829,
+        "keep": true,
+        "confidence": 0.25,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0022_chunk_000",
+        "similarity": 0.5179566325310706,
+        "keep": true,
+        "confidence": 0.16666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0011_chunk_000",
+        "similarity": 0.5125359524952846,
+        "keep": true,
+        "confidence": 0.25,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0018_chunk_000",
+        "similarity": 0.5074998771698499,
+        "keep": false,
+        "confidence": 0.08333333333333333,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0002_chunk_000",
+      "doc_0002_chunk_001",
+      "doc_0022_chunk_000",
+      "doc_0011_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 4,
+    "context_characters_before": 2037,
+    "context_characters_after": 1508,
+    "context_reduction": 0.2596956308296514,
+    "fallback_used": false,
+    "embedding_time": 0.013082100078463554,
+    "retrieval_time": 0.005694199935533106,
+    "decision_time": 0.00016520009376108646,
+    "llm_time": 0.3936690000118688,
+    "total_time": 0.41261750005651265,
+    "question_id": "57265ceddd62a815002e82b8",
+    "reference_answer": "1979",
+    "relevant_chunk_id": "doc_0002_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "1981",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0002_chunk_000",
+        "similarity": 0.7950344960546537
+      },
+      {
+        "chunk_id": "doc_0002_chunk_001",
+        "similarity": 0.7544557467475609
+      },
+      {
+        "chunk_id": "doc_0022_chunk_000",
+        "similarity": 0.5230540170424439
+      },
+      {
+        "chunk_id": "doc_0033_chunk_001",
+        "similarity": 0.5210202519229055
+      },
+      {
+        "chunk_id": "doc_0021_chunk_000",
+        "similarity": 0.5184640336925248
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0002_chunk_000",
+        "similarity": 0.7950344960546537,
+        "keep": true,
+        "confidence": 0.7272727272727273,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0002_chunk_001",
+        "similarity": 0.7544557467475609,
+        "keep": true,
+        "confidence": 0.36363636363636365,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0022_chunk_000",
+        "similarity": 0.5230540170424439,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0033_chunk_001",
+        "similarity": 0.5210202519229055,
+        "keep": true,
+        "confidence": 0.18181818181818182,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0021_chunk_000",
+        "similarity": 0.5184640336925248,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0002_chunk_000",
+      "doc_0002_chunk_001",
+      "doc_0033_chunk_001"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 3,
+    "context_characters_before": 1934,
+    "context_characters_after": 1111,
+    "context_reduction": 0.4255429162357808,
+    "fallback_used": false,
+    "embedding_time": 0.024001499987207353,
+    "retrieval_time": 0.005016100010834634,
+    "decision_time": 0.0001420000335201621,
+    "llm_time": 0.26601699995808303,
+    "total_time": 0.29518420004751533,
+    "question_id": "57265ceddd62a815002e82b9",
+    "reference_answer": "1981",
+    "relevant_chunk_id": "doc_0002_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "The 1974 Mustang I and GM\u2019s full-sized cars reflect the DOT \u201cdownsize\u201d revision of vehicle categories.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0002_chunk_000",
+        "similarity": 0.6396120158857197
+      },
+      {
+        "chunk_id": "doc_0002_chunk_001",
+        "similarity": 0.5906024860814987
+      },
+      {
+        "chunk_id": "doc_0031_chunk_001",
+        "similarity": 0.5021170508893699
+      },
+      {
+        "chunk_id": "doc_0029_chunk_001",
+        "similarity": 0.49722092148565394
+      },
+      {
+        "chunk_id": "doc_0029_chunk_000",
+        "similarity": 0.49194087781546314
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0002_chunk_000",
+        "similarity": 0.6396120158857197,
+        "keep": true,
+        "confidence": 0.6666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0002_chunk_001",
+        "similarity": 0.5906024860814987,
+        "keep": true,
+        "confidence": 0.2222222222222222,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0031_chunk_001",
+        "similarity": 0.5021170508893699,
+        "keep": true,
+        "confidence": 0.2222222222222222,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0029_chunk_001",
+        "similarity": 0.49722092148565394,
+        "keep": true,
+        "confidence": 0.2222222222222222,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0029_chunk_000",
+        "similarity": 0.49194087781546314,
+        "keep": true,
+        "confidence": 0.3333333333333333,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0002_chunk_000",
+      "doc_0002_chunk_001",
+      "doc_0031_chunk_001",
+      "doc_0029_chunk_001",
+      "doc_0029_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 1838,
+    "context_characters_after": 1838,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 0.015562299988232553,
+    "retrieval_time": 0.004836900043301284,
+    "decision_time": 0.00013459997717291117,
+    "llm_time": 0.7698554000817239,
+    "total_time": 0.7903978000395,
+    "question_id": "57265ceddd62a815002e82ba",
+    "reference_answer": "Mustang I",
+    "relevant_chunk_id": "doc_0002_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Ikh Zasag",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.8215278301039514
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.7631346007889213
+      },
+      {
+        "chunk_id": "doc_0017_chunk_001",
+        "similarity": 0.7058726910151235
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.697161529666135
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.6902193733834918
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.8215278301039514,
+        "keep": true,
+        "confidence": 0.5384615384615384,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.7631346007889213,
+        "keep": true,
+        "confidence": 0.23076923076923078,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0017_chunk_001",
+        "similarity": 0.7058726910151235,
+        "keep": true,
+        "confidence": 0.46153846153846156,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.697161529666135,
+        "keep": true,
+        "confidence": 0.5384615384615384,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.6902193733834918,
+        "keep": true,
+        "confidence": 0.38461538461538464,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0003_chunk_001",
+      "doc_0003_chunk_003",
+      "doc_0017_chunk_001",
+      "doc_0003_chunk_000",
+      "doc_0003_chunk_002"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 1908,
+    "context_characters_after": 1908,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 0.015093600028194487,
+    "retrieval_time": 0.004859799984842539,
+    "decision_time": 0.00014650006778538227,
+    "llm_time": 0.3495803000405431,
+    "total_time": 0.36968870006967336,
+    "question_id": "5727515af1498d1400e8f63a",
+    "reference_answer": "Ikh Zasag",
+    "relevant_chunk_id": "doc_0003_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Illegal matters related to corruption and bribery were significantly punished by Genghis Khan\u2019s laws.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.8546917985903032
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.7335753818450972
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.7268301737951739
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.7260967565769468
+      },
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.6925290110945542
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.8546917985903032,
+        "keep": true,
+        "confidence": 0.4,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.7335753818450972,
+        "keep": true,
+        "confidence": 0.4,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.7268301737951739,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.7260967565769468,
+        "keep": true,
+        "confidence": 0.3333333333333333,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.6925290110945542,
+        "keep": true,
+        "confidence": 0.2,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0003_chunk_001",
+      "doc_0003_chunk_002",
+      "doc_0003_chunk_000",
+      "doc_0000_chunk_001"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 4,
+    "context_characters_before": 2211,
+    "context_characters_after": 2104,
+    "context_reduction": 0.04839439167797377,
+    "fallback_used": false,
+    "embedding_time": 0.023248800076544285,
+    "retrieval_time": 0.004985500010661781,
+    "decision_time": 0.0002028999151661992,
+    "llm_time": 0.6491480999393389,
+    "total_time": 0.6775946000125259,
+    "question_id": "5727515af1498d1400e8f63b",
+    "reference_answer": "corruption and bribery",
+    "relevant_chunk_id": "doc_0003_chunk_001",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Tsakhiagiin Elbegdorj",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.8062838587869738
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.7728477788561541
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.7452849737958347
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.7174919934476348
+      },
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.6649975429634171
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.8062838587869738,
+        "keep": true,
+        "confidence": 0.4666666666666667,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.7728477788561541,
+        "keep": true,
+        "confidence": 0.6666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.7452849737958347,
+        "keep": true,
+        "confidence": 0.5333333333333333,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.7174919934476348,
+        "keep": true,
+        "confidence": 0.2,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0000_chunk_001",
+        "similarity": 0.6649975429634171,
+        "keep": true,
+        "confidence": 0.4,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0003_chunk_000",
+      "doc_0003_chunk_002",
+      "doc_0003_chunk_001",
+      "doc_0003_chunk_003",
+      "doc_0000_chunk_001"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 2211,
+    "context_characters_after": 2211,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 0.014700000057928264,
+    "retrieval_time": 0.005143699934706092,
+    "decision_time": 0.0001653000945225358,
+    "llm_time": 0.4812640999443829,
+    "total_time": 0.5012834999943152,
+    "question_id": "5727515af1498d1400e8f63c",
+    "reference_answer": "Tsakhiagiin Elbegdorj",
+    "relevant_chunk_id": "doc_0003_chunk_001",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "The introduction of the traditional Mongolian script and the creation of the Ikh Zasag (Great Administration), the first written Mongolian law.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.8193850204693268
+      },
+      {
+        "chunk_id": "doc_0017_chunk_001",
+        "similarity": 0.7858973898421647
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.7706622089229535
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.722724235118245
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.7106341885902552
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0003_chunk_000",
+        "similarity": 0.8193850204693268,
+        "keep": true,
+        "confidence": 0.5,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0017_chunk_001",
+        "similarity": 0.7858973898421647,
+        "keep": true,
+        "confidence": 0.4,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_001",
+        "similarity": 0.7706622089229535,
+        "keep": true,
+        "confidence": 0.5,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_003",
+        "similarity": 0.722724235118245,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0003_chunk_002",
+        "similarity": 0.7106341885902552,
+        "keep": true,
+        "confidence": 0.3,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0003_chunk_000",
+      "doc_0017_chunk_001",
+      "doc_0003_chunk_001",
+      "doc_0003_chunk_002"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 4,
+    "context_characters_before": 1908,
+    "context_characters_after": 1801,
+    "context_reduction": 0.056079664570230614,
+    "fallback_used": false,
+    "embedding_time": 0.014152900082990527,
+    "retrieval_time": 0.004956099903210998,
+    "decision_time": 0.00014920008834451437,
+    "llm_time": 0.7474013000028208,
+    "total_time": 0.7666700000409037,
+    "question_id": "5727515af1498d1400e8f63d",
+    "reference_answer": "traditional Mongolian script",
+    "relevant_chunk_id": "doc_0003_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "A double membrane.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0004_chunk_000",
+        "similarity": 0.8383841892519921
+      },
+      {
+        "chunk_id": "doc_0004_chunk_001",
+        "similarity": 0.7951109455056399
+      },
+      {
+        "chunk_id": "doc_0025_chunk_000",
+        "similarity": 0.7086444471904514
+      },
+      {
+        "chunk_id": "doc_0025_chunk_001",
+        "similarity": 0.6567486081782259
+      },
+      {
+        "chunk_id": "doc_0023_chunk_000",
+        "similarity": 0.6240187822737292
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0004_chunk_000",
+        "similarity": 0.8383841892519921,
+        "keep": true,
+        "confidence": 0.625,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0004_chunk_001",
+        "similarity": 0.7951109455056399,
+        "keep": true,
+        "confidence": 0.125,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0025_chunk_000",
+        "similarity": 0.7086444471904514,
+        "keep": true,
+        "confidence": 0.125,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0025_chunk_001",
+        "similarity": 0.6567486081782259,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0023_chunk_000",
+        "similarity": 0.6240187822737292,
+        "keep": true,
+        "confidence": 0.375,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0004_chunk_000",
+      "doc_0004_chunk_001",
+      "doc_0025_chunk_000",
+      "doc_0023_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 4,
+    "context_characters_before": 2346,
+    "context_characters_after": 1831,
+    "context_reduction": 0.21952259164535382,
+    "fallback_used": false,
+    "embedding_time": 0.012872599996626377,
+    "retrieval_time": 0.0047435000305995345,
+    "decision_time": 0.0001599000534042716,
+    "llm_time": 0.33002670004498214,
+    "total_time": 0.3478122000815347,
+    "question_id": "572961f61d04691400779359",
+    "reference_answer": "double",
+    "relevant_chunk_id": "doc_0004_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Secondary chloroplasts have additional membranes outside of the original two, as a result of the secondary endosymbiotic event, when a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga but failed to digest it\u2014much like the cyanobacterium at the beginning of this story. The engulfed alga's cell membrane and nucleus were also incorporated.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0004_chunk_000",
+        "similarity": 0.8609966701176544
+      },
+      {
+        "chunk_id": "doc_0004_chunk_001",
+        "similarity": 0.7599126122080975
+      },
+      {
+        "chunk_id": "doc_0025_chunk_000",
+        "similarity": 0.6895351856375044
+      },
+      {
+        "chunk_id": "doc_0025_chunk_001",
+        "similarity": 0.6479368904881735
+      },
+      {
+        "chunk_id": "doc_0023_chunk_000",
+        "similarity": 0.5937779165274463
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0004_chunk_000",
+        "similarity": 0.8609966701176544,
+        "keep": true,
+        "confidence": 0.5,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0004_chunk_001",
+        "similarity": 0.7599126122080975,
+        "keep": true,
+        "confidence": 0.16666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0025_chunk_000",
+        "similarity": 0.6895351856375044,
+        "keep": true,
+        "confidence": 0.16666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0025_chunk_001",
+        "similarity": 0.6479368904881735,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0023_chunk_000",
+        "similarity": 0.5937779165274463,
+        "keep": true,
+        "confidence": 0.16666666666666666,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0004_chunk_000",
+      "doc_0004_chunk_001",
+      "doc_0025_chunk_000",
+      "doc_0023_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 4,
+    "context_characters_before": 2346,
+    "context_characters_after": 1831,
+    "context_reduction": 0.21952259164535382,
+    "fallback_used": false,
+    "embedding_time": 0.012610199977643788,
+    "retrieval_time": 0.004624000051990151,
+    "decision_time": 0.00015310000162571669,
+    "llm_time": 1.5314079000381753,
+    "total_time": 1.5488041000207886,
+    "question_id": "572961f61d0469140077935a",
+    "reference_answer": "additional membranes outside of the original two",
+    "relevant_chunk_id": "doc_0004_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "When a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga but failed to digest it\u2014much like the cyanobacterium at the beginning of this story.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0004_chunk_000",
+        "similarity": 0.7256035466471499
+      },
+      {
+        "chunk_id": "doc_0006_chunk_000",
+        "similarity": 0.5385809434014527
+      },
+      {
+        "chunk_id": "doc_0025_chunk_001",
+        "similarity": 0.5331806033483361
+      },
+      {
+        "chunk_id": "doc_0023_chunk_001",
+        "similarity": 0.5273452367914986
+      },
+      {
+        "chunk_id": "doc_0012_chunk_000",
+        "similarity": 0.5193117489692931
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0004_chunk_000",
+        "similarity": 0.7256035466471499,
+        "keep": true,
+        "confidence": 0.8333333333333334,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0006_chunk_000",
+        "similarity": 0.5385809434014527,
+        "keep": true,
+        "confidence": 0.16666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0025_chunk_001",
+        "similarity": 0.5331806033483361,
+        "keep": true,
+        "confidence": 0.16666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0023_chunk_001",
+        "similarity": 0.5273452367914986,
+        "keep": true,
+        "confidence": 0.16666666666666666,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0012_chunk_000",
+        "similarity": 0.5193117489692931,
+        "keep": true,
+        "confidence": 0.16666666666666666,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0004_chunk_000",
+      "doc_0006_chunk_000",
+      "doc_0025_chunk_001",
+      "doc_0023_chunk_001",
+      "doc_0012_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 5,
+    "context_characters_before": 2472,
+    "context_characters_after": 2472,
+    "context_reduction": 0.0,
+    "fallback_used": false,
+    "embedding_time": 0.02443449990823865,
+    "retrieval_time": 0.004679800011217594,
+    "decision_time": 0.00015600002370774746,
+    "llm_time": 0.9108300000661984,
+    "total_time": 0.9401107999728993,
+    "question_id": "572961f61d0469140077935b",
+    "reference_answer": "a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga but failed to digest it",
+    "relevant_chunk_id": "doc_0004_chunk_000",
+    "gold_chunk_survived": true
+  },
+  {
+    "answer": "Secondary chloroplasts have two cyanobacterial membranes, sometimes the eaten alga's cell membrane, and the phagosomal vacuole from the host\u2019s cell membrane.",
+    "retrieved": [
+      {
+        "chunk_id": "doc_0004_chunk_000",
+        "similarity": 0.8716134177981654
+      },
+      {
+        "chunk_id": "doc_0004_chunk_001",
+        "similarity": 0.7637425621278777
+      },
+      {
+        "chunk_id": "doc_0025_chunk_000",
+        "similarity": 0.696262694662213
+      },
+      {
+        "chunk_id": "doc_0025_chunk_001",
+        "similarity": 0.6519702867610853
+      },
+      {
+        "chunk_id": "doc_0023_chunk_000",
+        "similarity": 0.6006993436148058
+      }
+    ],
+    "decisions": [
+      {
+        "chunk_id": "doc_0004_chunk_000",
+        "similarity": 0.8716134177981654,
+        "keep": true,
+        "confidence": 0.7142857142857143,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0004_chunk_001",
+        "similarity": 0.7637425621278777,
+        "keep": true,
+        "confidence": 0.14285714285714285,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0025_chunk_000",
+        "similarity": 0.696262694662213,
+        "keep": true,
+        "confidence": 0.14285714285714285,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0025_chunk_001",
+        "similarity": 0.6519702867610853,
+        "keep": false,
+        "confidence": 0.0,
+        "backend": "keyword_oracle"
+      },
+      {
+        "chunk_id": "doc_0023_chunk_000",
+        "similarity": 0.6006993436148058,
+        "keep": true,
+        "confidence": 0.2857142857142857,
+        "backend": "keyword_oracle"
+      }
+    ],
+    "selected_chunks": [
+      "doc_0004_chunk_000",
+      "doc_0004_chunk_001",
+      "doc_0025_chunk_000",
+      "doc_0023_chunk_000"
+    ],
+    "num_retrieved": 5,
+    "num_selected": 4,
+    "context_characters_before": 2346,
+    "context_characters_after": 1831,
+    "context_reduction": 0.21952259164535382,
+    "fallback_used": false,
+    "embedding_time": 0.014993299962952733,
+    "retrieval_time": 0.004807000048458576,
+    "decision_time": 0.00015410000924021006,
+    "llm_time": 0.8950935000320897,
+    "total_time": 0.9150569000048563,
+    "question_id": "572961f61d0469140077935c",
+    "reference_answer": "sometimes the eaten alga's cell membrane, and the phagosomal vacuole from the host's cell membrane",
+    "relevant_chunk_id": "doc_0004_chunk_001",
+    "gold_chunk_survived": true
+  }
+]
